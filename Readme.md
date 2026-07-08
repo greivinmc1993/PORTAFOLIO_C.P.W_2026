@@ -6,6 +6,7 @@ Con este tema adquirí la competencia de gestionar y documentar los cambios real
 
 Práctica PrácticaSesión2Git-GitHub_VSCode.
 
-<img width="1789" height="261" alt="image" src="https://github.com/user-attachments/assets/fadb5fbc-8053-4293-a974-a87d1c48c0a7" />
+<img width="768" height="140" alt="image" src="https://github.com/user-attachments/assets/46a3c953-b9cb-497a-a019-c331aa24d4fe" />
+
 
 
