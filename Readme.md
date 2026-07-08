@@ -4,6 +4,15 @@ Con este tema adquirí la competencia de gestionar y documentar los cambios real
 
 <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/81a2f17d-e805-4301-a878-9f59655dd423" />
 
+<<<<<<< HEAD
 Resultado de la prática PrácticaSesión2Git-GitHub_VSCode
 
 ![Foto de practica](image.png)
+=======
+Práctica PrácticaSesión2Git-GitHub_VSCode.
+
+<img width="768" height="140" alt="image" src="https://github.com/user-attachments/assets/46a3c953-b9cb-497a-a019-c331aa24d4fe" />
+
+
+
+>>>>>>> f47778f1da02d9428187d08fec8f7bc5c2576cf9
