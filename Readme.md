@@ -10,3 +10,4 @@ Con este tema adquirí la competencia de gestionar y documentar los cambios real
 
 <img width="768" height="140" alt="image" src="https://github.com/user-attachments/assets/46a3c953-b9cb-497a-a019-c331aa24d4fe" />
 
+<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/4176a8a6-e439-4304-9d97-56e193f2e40e" />
