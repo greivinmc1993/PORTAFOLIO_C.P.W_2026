@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  Con este tema adquirí la competencia de gestionar y documentar los cambios realizados durante el desarrollo de un proyecto, comprendiendo la importancia de mantener un control organizado de las modificaciones. Aprendí cómo registrar los cambios, identificar versiones y dar seguimiento al progreso del trabajo para       evitar errores y mantener un historial de las mejoras realizadas. Durante el curso apliqué estos conocimientos en las actividades de la unidad de aprendizaje, llevando un control de las actualizaciones realizadas en mis proyectos. Utilicé herramientas de documentación y control de versiones para organizar la            información. Una de las dificultades que enfrenté fue mantener un registro ordenado de cada cambio realizado, pero logré resolverlo documentando cada modificación de forma constante y revisando el historial para asegurar que el proyecto se mantuviera organizado y actualizado.
+  Con este tema adquirí la competencia de gestionar y documentar los cambios realizados durante el desarrollo de un proyecto, comprendiendo la importancia de mantener un control organizado de las modificaciones. Aprendí cómo registrar los cambios, identificar versiones y dar seguimiento al progreso del trabajo para     evitar errores y mantener un historial de las mejoras realizadas. Durante el curso apliqué estos conocimientos en las actividades de la unidad de aprendizaje, llevando un control de las actualizaciones realizadas en mis proyectos. Utilicé herramientas de documentación y control de versiones para organizar la          información. Una de las dificultades que enfrenté fue mantener un registro ordenado de cada cambio realizado, pero logré resolverlo documentando cada modificación de forma constante y revisando el historial para asegurar que el proyecto se mantuviera organizado y actualizado.
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 </h3>
 
 <p align="center">
-  Durante este curso aprendí a gestionar el control de versiones de forma profesional con Git y GitHub, aplicando un flujo colaborativo mediante la terminal integrada de VS Code y la interfaz remota. Puse en práctica este aprendizaje creando repositorios, trabajando con ramas paralelas, registrando cambios con commits atómicos convencionales, subiendo mi código y abriendo Pull Requests para la revisión de pares y fusión en la rama main. Para lograrlo, utilicé herramientas como Git Bash/cmd, la extensión de Source Control de VS Code, Markdown para documentar la bitácora y las DevTools del navegador para inspeccionar conceptos web. A lo largo del proceso enfrenté dificultades como la aparición de conflictos de fusión (merge conflicts) al editar las mismas líneas de un archivo, errores en la sintaxis de documentos XML y el rechazo de envíos por falta de sincronización previa. Resolví estas situaciones aplicando la «regla de oro» del curso: inspeccionar constantemente el estado con git status, realizar un git pull antes de trabajar, solucionar visualmente los marcadores de conflicto en el editor dejando la versión final deseada, y verificando que el código XML estuviera bien formado respetando sus reglas estructurales.
+  Durante este curso aprendí a gestionar el control de versiones de forma profesional con Git y GitHub, aplicando un flujo colaborativo mediante la terminal integrada de VS Code y la interfaz remota. Puse en práctica este aprendizaje creando repositorios, trabajando con ramas paralelas, registrando cambios con          commits atómicos convencionales, subiendo mi código y abriendo Pull Requests para la revisión de pares y fusión en la rama main. Para lograrlo, utilicé herramientas como Git Bash/cmd, la extensión de Source Control de VS Code, Markdown para documentar la bitácora y las DevTools del navegador para inspeccionar         conceptos web. A lo largo del proceso enfrenté dificultades como la aparición de conflictos de fusión <em>(merge conflicts)</em> al editar las mismas líneas de un archivo, errores en la sintaxis de documentos XML y el rechazo de envíos por falta de sincronización previa. Resolví estas situaciones aplicando la <em>    <u>«regla de oro»   del curso: inspeccionar constantemente el estado con git status, realizar un git pull antes de trabajar</u>, solucionar visualmente los marcadores de conflicto en el editor dejando la versión final deseada, y verificando que el código XML estuviera bien formado respetando sus reglas              estructurales.
 </p>
 
 <p align="center">
@@ -48,3 +48,12 @@
 <h3 align="center">
   Clase 3 21-7-2026 Creación de Portafolio
 </h3>
+
+<p align="center">
+  Se continua con trabajo colavorativo, se procede a crear portafolio y su estructura y conceptos sobre .gitignore
+</p>
+
+<p align="center">
+  <img width="2529" height="1244" alt="image" src="https://github.com/user-attachments/assets/804d0e9a-dfeb-4191-9f19-4cb4ab9779ea" />
+</p>
+
