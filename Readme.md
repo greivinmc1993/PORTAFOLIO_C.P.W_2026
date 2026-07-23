@@ -2,7 +2,7 @@
 
 # 📘 Portafolio de Evidencias
 
-### Nombre Completo de la Persona Estudiante
+### Greivin Montero Contreras
 
 **CSTI12002 · Codificación de páginas web** · Instituto Nacional de Aprendizaje
 Facilitador: Giovanni Antonio Coto Calderón · Edición 2 · 2026
@@ -50,7 +50,7 @@ Portafolio-Codificación de Páginas Web/
 
 | Sesión | Tema         | Qué aprendí                            |      Trabajo      |     Captura      |
 | :----: | :----------- | :------------------------------------- | :---------------: | :--------------: |
-|  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01/) | [ver](recursos/) |
+|  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01/CLASE_1_2-7-2026/index.html) | [ver](recursos/) |
 
 <details>
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
