@@ -52,6 +52,7 @@ Portafolio-Codificación de Páginas Web/
 | :----: | :----------- | :------------------------------------- | :---------------: | :--------------: |
 |  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01/CLASE_1_2-7-2026/index.html) | [ver](recursos/) |
 
+
 <details>
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
