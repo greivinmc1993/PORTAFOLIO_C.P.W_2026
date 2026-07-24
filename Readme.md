@@ -49,7 +49,7 @@ Portafolio-Codificación de Páginas Web/
 <!-------------------------------------------------------UNIDAD 1----------------------------------------------------------------------------->
 
 <details>  <!-- UNIDAD 1-->
-    <summary>🔽<b>Unidad 1 · Implementación de control de versiones</b></summary>
+    <summary>▼<b>Unidad 1 · Implementación de control de versiones</b></summary>
         <br>
         <table border="1">
             <thead>
@@ -77,7 +77,7 @@ Portafolio-Codificación de Páginas Web/
 <!-------------------------------------------------------UNIDAD 2----------------------------------------------------------------------------->
 
 <details>
-<summary>🔽🔽<b>Unidad 2 · Etiquetas y atributos HTML (sesiones 2 a 8)</b></summary>
+<summary>▼<b>Unidad 2 · Etiquetas y atributos HTML (sesiones 2 a 8)</b></summary>
 <br>
 <table border="1">
     <thead>
@@ -147,7 +147,7 @@ Portafolio-Codificación de Páginas Web/
 <!-------------------------------------------------------UNIDAD 3----------------------------------------------------------------------------->
 
 <details>
-<summary>🔽<b>Unidad 3 · Codificación de hojas de estilo (sesiones 11 a 20)</b></summary>
+<summary>▼<b>Unidad 3 · Codificación de hojas de estilo (sesiones 11 a 20)</b></summary>
 <br>
 <table border="1">
     <thead>
@@ -238,7 +238,7 @@ Portafolio-Codificación de Páginas Web/
 <!-------------------------------------------------------UNIDAD 4----------------------------------------------------------------------------->
 
 <details>
-<summary>🔽<b>Unidad 4 · Páginas web responsivas (sesiones 23 a 28)</b></summary>
+<summary>▼<b>Unidad 4 · Páginas web responsivas (sesiones 23 a 28)</b></summary>
 <br>
 <table border="1">
     <thead>
@@ -301,7 +301,7 @@ Portafolio-Codificación de Páginas Web/
 <!-------------------------------------------------------UNIDAD 5----------------------------------------------------------------------------->
 
 <details>
-<summary>🔽<b>Unidad 5 · Frameworks y librerías (sesiones 31 a 36)</b></summary>
+<summary>▼<b>Unidad 5 · Frameworks y librerías (sesiones 31 a 36)</b></summary>
 <br>
 <table border="1">
     <thead>
