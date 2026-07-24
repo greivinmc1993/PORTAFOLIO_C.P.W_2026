@@ -18,10 +18,10 @@ Facilitador: Giovanni Antonio Coto Calderón · Edición 2 · 2026
 
 <h2> 📖 Sobre este portafolio</h2>
 
-Este repositorio reúne el trabajo realizado durante las 150 horas del módulo
-<strong>Codificación de páginas web.</strong> Cada carpeta corresponde a una unidad de aprendizaje
-y contiene las prácticas de sus sesiones. El registro de evidencias, más abajo,
-documenta sesión por sesión qué se hizo y qué se aprendió.
+>Este repositorio reúne el trabajo realizado durante las 150 horas del módulo
+><strong>Codificación de páginas web.</strong> Cada carpeta corresponde a una unidad de aprendizaje
+>y contiene las prácticas de sus sesiones. El registro de evidencias, más abajo,
+>documenta sesión por sesión qué se hizo y qué se aprendió.
 
 > Recorrido sugerido: empezar por el registro de evidencias y abrir los enlaces
 > de las sesiones que interesen. La galería de capturas muestra los resultados
@@ -398,7 +398,9 @@ Portafolio-Codificación de Páginas Web/
 
 <h2>🎨 Decisiones técnicas documentadas</h2>
 
-_(Completar conforme avanza el módulo. Ejemplos de lo que corresponde anotar aquí.)_
+<p align="center">
+  (Completar conforme avanza el módulo. Ejemplos de lo que corresponde anotar aquí.)
+</p>
 
 <table>
         <thead>
@@ -431,7 +433,10 @@ _(Completar conforme avanza el módulo. Ejemplos de lo que corresponde anotar aq
 
 <h2>💭 Reflexión final</h2>
 
-_(Escribir al cerrar el módulo. Tres preguntas para orientarla:)_
+<p align="center">
+  (Escribir al cerrar el módulo. Tres preguntas para orientarla:)
+</p>
+
 
 <ol>
     <li>¿Qué sé hacer hoy que no sabía el primer día?</li>
@@ -457,10 +462,10 @@ _(Escribir al cerrar el módulo. Tres preguntas para orientarla:)_
 
 <div align="center">
 
-<strong>Nombre Completo</strong> · <a href="mailto:greivinmc1993hotmail.com">greivinmc1993hotmail.com</a>
+<strong>Nombre Completo</strong> · <a href="mailto:greivinmc1993@hotmail.com">greivinmc1993@hotmail.com</a>
 
 <p>
-  Portafolio elaborado durante el módulo CSTI12002 · Instituto Nacional de Aprendizaje · 2026
+  Portafolio elaborado durante el módulo CSTI12002 · Instituto Nacional de Aprendizaje · 2026 · por Greivin Montero Contreras
 </p>
 
 </div>
