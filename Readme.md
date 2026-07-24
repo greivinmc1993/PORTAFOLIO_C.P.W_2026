@@ -1,25 +1,24 @@
 <div align="center">
 
-# 📘 Portafolio de Evidencias
+<h1>📘 Portafolio de Evidencias</h1>
 
-### Greivin Montero Contreras
+<h3> Greivin Montero Contreras</h3>
 
-**CSTI12002 · Codificación de páginas web** · Instituto Nacional de Aprendizaje
+<strong>CSTI12002 · Codificación de páginas web</strong> · Instituto Nacional de Aprendizaje
 Facilitador: Giovanni Antonio Coto Calderón · Edición 2 · 2026
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Bootstrap_5-7952B3?logo=bootstrap&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="">
 
 </div>
 
 ---
-
-## 📖 Sobre este portafolio
+<h2> 📖 Sobre este portafolio</h2>
 
 Este repositorio reúne el trabajo realizado durante las 150 horas del módulo
-**Codificación de páginas web**. Cada carpeta corresponde a una unidad de aprendizaje
+<strong>Codificación de páginas web.</strong>  Cada carpeta corresponde a una unidad de aprendizaje
 y contiene las prácticas de sus sesiones. El registro de evidencias, más abajo,
 documenta sesión por sesión qué se hizo y qué se aprendió.
 
@@ -28,44 +27,45 @@ documenta sesión por sesión qué se hizo y qué se aprendió.
 > más representativos.
 
 ---
-
-## 📁 Estructura del repositorio
+<h2> 📁 Estructura del repositorio</h2>
 
 ```
 Portafolio-Codificación de Páginas Web/
-├── README.md               ← este archivo
+├── Readme.md               ← este archivo
 ├── recursos/               ← capturas de pantalla y material de apoyo
-├── unidad-01/              ← Control de versiones
-├── unidad-02/              ← Etiquetas y atributos HTML
-├── unidad-03/              ← Codificación de hojas de estilo
-├── unidad-04/              ← Páginas web responsivas
-└── unidad-05/              ← Frameworks y librerías
+├── UNIDAD_1_git/           ← Control de versiones
+├── UNIDAD_2_html/          ← Etiquetas y atributos HTML
+├── UNIDAD_3_css/           ← Codificación de hojas de estilo
+├── UNIDAD_4_responsive/    ← Páginas web responsivas
+└── UNIDAD_5_framework/     ← Frameworks y librerías
 ```
 
 ---
 
-## 📋 Registro de evidencias
+<h2> 📋 Registro de evidencias</h2>
 
-### Unidad 1 · Implementación de control de versiones
+<details>
+<summary><b>Unidad 1 · Implementación de control de versiones</summary>
 
-| Sesión | Tema         | Qué aprendí                            |      Trabajo      |     Captura      |
-| :----: | :----------- | :------------------------------------- | :---------------: | :--------------: |
-|  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01/CLASE_1_2-7-2026/index.html) | [ver](recursos/) |
-
+| Sesión | Tema                           | Qué aprendí                                          |      Trabajo      |     Captura      |
+| :----: | :----------------------------- | :--------------------------------------------------- | :---------------: | :--------------: |
+|  S01   | Git y GitHub | Con este tema adquirí la competencia de gestionar y documentar los cambios realizados durante el desarrollo de un proyecto, comprendiendo la importancia de mantener un control organizado de las modificaciones. Aprendí cómo registrar los cambios, identificar versiones y dar seguimiento al progreso del trabajo para evitar errores y mantener un historial de las mejoras realizadas. | [ver](UNIDAD_1_git/CLASE%202%2020-7-2026/3.Guia_Trabajo_Colaborativo_GitHub2026.pdf) | [ver](recursos/clase-1-2-7-2026.png) |
+<br>
+</details>
 
 <details>
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
 | Sesión | Tema                           | Qué aprendí                                          |      Trabajo      |     Captura      |
 | :----: | :----------------------------- | :--------------------------------------------------- | :---------------: | :--------------: |
-|  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos git para trabajo colaborativo | [ver](unidad-02/) | [ver](recursos/) |
-|  S03   | Estructura del documento HTML5 |                                                      | [ver](unidad-02/) | [ver](recursos/) |
-|  S04   | Texto, enlaces y anclas        |                                                      | [ver](unidad-02/) | [ver](recursos/) |
-|  S05   | Listas y tablas                |                                                      | [ver](unidad-02/) | [ver](recursos/) |
+|  S02   | Git colaborativo, la web y XML | Aprendí a gestionar el control de versiones de forma profesional con Git y GitHub, aplicando un flujo colaborativo mediante la terminal integrada de VS Code y la interfaz remota. Puse en práctica este aprendizaje creando repositorios, trabajando con ramas paralelas, registrando cambios con commits atómicos convencionales, subiendo mi código y abriendo Pull Requests para la revisión de pares y fusión en la rama main. Resolví estas situaciones aplicando la «regla de oro» del curso: inspeccionar constantemente el estado con git status, realizar un git pull antes de trabajar, solucionar visualmente los marcadores de conflicto en el editor dejando la versión final deseada. | [ver](UNIDAD_1_git/CLASE%202%2020-7-2026/3.Guia_Trabajo_Colaborativo_GitHub2026.pdf) | [ver](recursos/clse-2-20-7-2026.png) |
+|  S03   | Estructura del documento HTML5 | En esta sesión aprendí a configurar Visual Studio Code con extensiones clave como *Prettier* y *Live Server* para mantener un código limpio y en orden. Comprendí que HTML5 es gestionado por WHATWG como un estándar vivo en continua evolución, y dominé la estructura base del documento compuestas por `<!DOCTYPE html>`, `<html lang="es">`, la cabecera `<head>` para metadatos no visibles (como la codificación `UTF-8` y el `viewport`) y el `<body>` para el contenido visible. Finalmente, reconocí la importancia de los atributos globales, los comentarios explicativos y la validación con la W3C para garantizar que el sitio funcione correctamente en cualquier navegador.                                                     | [ver](UNIDAD_2_html/CLASE%204%2022-7-2026/3.CONCEPTOS.S3.Estu.HTML-Estructura.pdf) | [ver](recursos/clase-4-22-7-2026.png) |
+|  S04   | Texto, enlaces y anclas        | En esta sesión aprendí a estructurar texto y navegación en HTML usando jerarquía lógica de encabezados (`h1`-`h6` con un único `h1` sin saltarse niveles) y etiquetas semánticas para dar significado al contenido, como `strong`, `em`, `blockquote` y `q`. Dominé la creación de hipervínculos con `<a>` usando `target="_blank"` y `rel="noopener"` para enlaces externos con seguridad, así como la gestión de rutas relativas desde el archivo actual (prohibiendo rutas de disco local). Finalmente, aprendí a crear anclas internas vinculando un atributo `id` único con `href="#id"` para facilitar la navegación dentro de la misma página o hacia secciones específicas de otras.                                                     | [ver](UNIDAD_2_html/CLASE%204%2022-7-2026/SITIO-DEMO/artiiculos.html) | [ver](recursos/clase-3-21-7-2026.png) |
+|  S05   | Listas y tablas                | En esta sesión aprendí a estructurar datos utilizando listas y tablas en HTML. Dominé el uso de listas desordenadas (`ul`), ordenadas (`ol`) y descriptivas (`dl`), así como el anidamiento correcto de sublistas estrictamente dentro de las etiquetas `li` del elemento padre. Asimismo, aprendí que las tablas deben usarse únicamente para información tabular y no para maquetación, organizándolas semánticamente con `caption`, `thead`, `tbody` y `tfoot`. Por último, comprendí cómo combinar celdas usando `colspan` y `rowspan` manteniendo la contabilidad exacta de columnas, e incorporando atributos como `scope="col"` y `scope="row"` en los encabezados `th` para garantizar la accesibilidad.                                                     | [ver](unidad-02/) | [ver](recursos/) |
 |  S06   | Formularios y semántica        |                                                      | [ver](unidad-02/) | [ver](recursos/) |
 |  S07   | Multimedia                     |                                                      | [ver](unidad-02/) | [ver](recursos/) |
 |  S08   | SVG y repaso                   |                                                      | [ver](unidad-02/) | [ver](recursos/) |
-
+<br>
 </details>
 
 <details>
@@ -83,7 +83,7 @@ Portafolio-Codificación de Páginas Web/
 |  S18   | Componentes estilizados    |             | [ver](unidad-03/) | [ver](recursos/) |
 |  S19   | Animaciones y filtros      |             | [ver](unidad-03/) | [ver](recursos/) |
 |  S20   | SCSS y repaso              |             | [ver](unidad-03/) | [ver](recursos/) |
-
+<br>
 </details>
 
 <details>
@@ -97,7 +97,7 @@ Portafolio-Codificación de Páginas Web/
 |  S26   | Imágenes y video adaptativos    |             | [ver](unidad-04/) | [ver](recursos/) |
 |  S27   | Patrones de diseño adaptativo I |             | [ver](unidad-04/) | [ver](recursos/) |
 |  S28   | Patrones II y repaso            |             | [ver](unidad-04/) | [ver](recursos/) |
-
+<br>
 </details>
 
 <details>
@@ -111,7 +111,7 @@ Portafolio-Codificación de Páginas Web/
 |  S34   | Tipografía y utilidades       |             | [ver](unidad-05/) | [ver](recursos/) |
 |  S35   | Formularios y navegación      |             | [ver](unidad-05/) | [ver](recursos/) |
 |  S36   | Componentes y personalización |             | [ver](unidad-05/) | [ver](recursos/) |
-
+<br>
 </details>
 
 ---
@@ -122,7 +122,7 @@ _(Sustituir por las capturas propias. Se recomienda incluir de tres a seis
 imágenes representativas de todo el módulo.)_
 
 <p align="center">
-  <img src="recursos/ejemplo-escritorio.png" width="600" alt="Sitio personal en vista de escritorio">
+  <img src="recursos/repositorio.png" width="600" alt="Sitio personal en vista de escritorio">
 </p>
 
 <div align="center"><i>El sitio personal al cierre de la Unidad 3.</i></div>
