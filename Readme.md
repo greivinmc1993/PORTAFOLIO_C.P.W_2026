@@ -46,33 +46,105 @@ Portafolio-Codificación de Páginas Web/
 
 <h2> 📋 Registro de evidencias</h2>
 
-<details>
+<!-------------------------------------------------------UNIDAD 1----------------------------------------------------------------------------->
+
+<details>  <!-- UNIDAD 1-->
 <summary><b>Unidad 1 · Implementación de control de versiones</summary>
-
-| Sesión | Tema         | Qué aprendí                                                                                                                                                                                                                                                                                                                                                                                  |                                       Trabajo                                        |               Captura                |
-| :----: | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------: | :----------------------------------: |
-|  S01   | Git y GitHub | Con este tema adquirí la competencia de gestionar y documentar los cambios realizados durante el desarrollo de un proyecto, comprendiendo la importancia de mantener un control organizado de las modificaciones. Aprendí cómo registrar los cambios, identificar versiones y dar seguimiento al progreso del trabajo para evitar errores y mantener un historial de las mejoras realizadas. | [ver](UNIDAD_1_git/CLASE%202%2020-7-2026/3.Guia_Trabajo_Colaborativo_GitHub2026.pdf) | [ver](recursos/clase-1-2-7-2026.png) |
-
+<br>
+<table>
+        <thead>
+            <tr>
+                <th><p align="center">Sesión</p></th>
+                <th><p align="center">Tema</p></th>
+                <th><p align="center">Qué aprendí</p></th>
+                <th><p align="center">Trabajo</p></th>
+                <th><p align="center">Captura</p></th>
+            </tr>
+        </thead>
+  <tbody>
+            <tr align="center">
+                <td>S01</td>
+                <td>Git y GitHub</td>
+                <td>Con este tema adquirí la competencia de gestionar y documentar los cambios realizados durante el desarrollo de un proyecto, comprendiendo la importancia de mantener un control organizado de las modificaciones. Aprendí cómo registrar los cambios, identificar versiones y dar seguimiento al progreso del trabajo para evitar errores y mantener un historial de las mejoras realizadas.</td>
+                <td><a href="UNIDAD_1_git/CLASE_2_20-7-2026/3.Guia_Trabajo_Colaborativo_GitHub2026.pdf" target="_blank">Ver</a></td>
+                <td><a href="recursos/clase-1-2-7-2026.png" target="_blank">Ver</a></td>
+            </tr>
+  </tbody>
+</table>
 <br>
 </details>
+
+<!-------------------------------------------------------UNIDAD 2----------------------------------------------------------------------------->
 
 <details>
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
-
-| Sesión | Tema                           | Qué aprendí                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                       Trabajo                                        |                Captura                |
-| :----: | :----------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------: | :-----------------------------------: |
-|  S02   | Git colaborativo, la web y XML | Aprendí a gestionar el control de versiones de forma profesional con Git y GitHub, aplicando un flujo colaborativo mediante la terminal integrada de VS Code y la interfaz remota. Puse en práctica este aprendizaje creando repositorios, trabajando con ramas paralelas, registrando cambios con commits atómicos convencionales, subiendo mi código y abriendo Pull Requests para la revisión de pares y fusión en la rama main. Resolví estas situaciones aplicando la «regla de oro» del curso: inspeccionar constantemente el estado con git status, realizar un git pull antes de trabajar, solucionar visualmente los marcadores de conflicto en el editor dejando la versión final deseada.             | [ver](UNIDAD_1_git/CLASE%202%2020-7-2026/3.Guia_Trabajo_Colaborativo_GitHub2026.pdf) | [ver](recursos/clse-2-20-7-2026.png)  |
-|  S03   | Estructura del documento HTML5 | En esta sesión aprendí a configurar Visual Studio Code con extensiones clave como _Prettier_ y _Live Server_ para mantener un código limpio y en orden. Comprendí que HTML5 es gestionado por WHATWG como un estándar vivo en continua evolución, y dominé la estructura base del documento compuestas por `<!DOCTYPE html>`, `<html lang="es">`, la cabecera `<head>` para metadatos no visibles (como la codificación `UTF-8` y el `viewport`) y el `<body>` para el contenido visible. Finalmente, reconocí la importancia de los atributos globales, los comentarios explicativos y la validación con la W3C para garantizar que el sitio funcione correctamente en cualquier navegador.                     |  [ver](UNIDAD_2_html/CLASE%204%2022-7-2026/3.CONCEPTOS.S3.Estu.HTML-Estructura.pdf)  | [ver](recursos/clase-4-22-7-2026.png) |
-|  S04   | Texto, enlaces y anclas        | En esta sesión aprendí a estructurar texto y navegación en HTML usando jerarquía lógica de encabezados (`h1`-`h6` con un único `h1` sin saltarse niveles) y etiquetas semánticas para dar significado al contenido, como `strong`, `em`, `blockquote` y `q`. Dominé la creación de hipervínculos con `<a>` usando `target="_blank"` y `rel="noopener"` para enlaces externos con seguridad, así como la gestión de rutas relativas desde el archivo actual (prohibiendo rutas de disco local). Finalmente, aprendí a crear anclas internas vinculando un atributo `id` único con `href="#id"` para facilitar la navegación dentro de la misma página o hacia secciones específicas de otras.                     |        [ver](UNIDAD_2_html/CLASE%204%2022-7-2026/SITIO-DEMO/artiiculos.html)         | [ver](recursos/clase-3-21-7-2026.png) |
-|  S05   | Listas y tablas                | En esta sesión aprendí a estructurar datos utilizando listas y tablas en HTML. Dominé el uso de listas desordenadas (`ul`), ordenadas (`ol`) y descriptivas (`dl`), así como el anidamiento correcto de sublistas estrictamente dentro de las etiquetas `li` del elemento padre. Asimismo, aprendí que las tablas deben usarse únicamente para información tabular y no para maquetación, organizándolas semánticamente con `caption`, `thead`, `tbody` y `tfoot`. Por último, comprendí cómo combinar celdas usando `colspan` y `rowspan` manteniendo la contabilidad exacta de columnas, e incorporando atributos como `scope="col"` y `scope="row"` en los encabezados `th` para garantizar la accesibilidad. |                                  [ver](unidad-02/)                                   |           [ver](recursos/)            |
-|  S06   | Formularios y semántica        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                  [ver](unidad-02/)                                   |           [ver](recursos/)            |
-|  S07   | Multimedia                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                  [ver](unidad-02/)                                   |           [ver](recursos/)            |
-|  S08   | SVG y repaso                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                  [ver](unidad-02/)                                   |           [ver](recursos/)            |
-
+<br>
+<table>
+        <thead>
+            <tr>
+                <th><p align="center">Sesión</p></th>
+                <th><p align="center">Tema</p></th>
+                <th><p align="center">Qué aprendí</p></th>
+                <th><p align="center">Trabajo</p></th>
+                <th><p align="center">Captura</p></th>
+            </tr>
+        </thead>
+  <tbody>
+            <tr align="center">
+                <td>S02</td>
+                <td>Git colaborativo, la web y XML</td>
+                <td>Aprendí a gestionar el control de versiones de forma profesional con Git y GitHub, aplicando un flujo colaborativo mediante la terminal integrada de VS Code y la interfaz remota. Puse en práctica este aprendizaje creando repositorios, trabajando con ramas paralelas, registrando cambios con commits atómicos convencionales, subiendo mi código y abriendo Pull Requests para la revisión de pares y fusión en la rama main. Resolví estas situaciones aplicando la «regla de oro» del curso: inspeccionar constantemente el estado con git status, realizar un git pull antes de trabajar, solucionar visualmente los marcadores de conflicto en el editor dejando la versión final deseada.</td>
+                <td><a href="UNIDAD_1_git/CLASE_2_20-7-2026/3.Guia_Trabajo_Colaborativo_GitHub2026.pdf" target="_blank">Ver</a></td>
+                <td><a href="recursos/clase-2-20-7-2026.png" target="_blank">Ver</a></td>
+            </tr>
+            <tr align="center">
+                <td>S03</td>
+                <td>Estructura del documento HTML5</td>
+                <td>En esta sesión aprendí a configurar Visual Studio Code con extensiones clave como *Prettier* y *Live Server* para mantener un código limpio y en orden. Comprendí que HTML5 es gestionado por WHATWG como un estándar vivo en continua evolución, y dominé la estructura base del documento compuestas por <mark>&lt;!DOCTYPE html&gt;</mark>, <mark>&lt;html lang="es"&gt;</mark>, la cabecera <mark>&lt;head&gt;</mark> para metadatos no visibles (como la codificación `UTF-8` y el `viewport`) y el <mark>&lt;body&gt;</mark> para el contenido visible. Finalmente, reconocí la importancia de los atributos globales, los comentarios explicativos y la validación con la W3C para garantizar que el sitio funcione correctamente en cualquier navegador.</td>
+                <td><a href="UNIDAD_2_html/CLASE 3 21-7-2026/Presentacion_S04_Texto_Enlaces_Anclas.pptx" target="_blank">Ver</a></td>
+                <td><a href="recursos/clase-4-22-7-2026.png" target="_blank">Ver</a></td>
+            </tr>
+            <tr align="center">
+                <td>S04</td>
+                <td>Texto, enlaces y anclas</td>
+                <td>En esta sesión aprendí a estructurar texto y navegación en HTML usando jerarquía lógica de encabezados (<mark>h1</mark>-<mark>h6</mark> con un único <mark>h1</mark> sin saltarse niveles) y etiquetas semánticas para dar significado al contenido, como <mark>strong</mark>, <mark>em</mark>, <mark>blockquote</mark> y <mark>q</mark>. Dominé la creación de hipervínculos con <mark>&lt; a &gt;</mark> usando <mark>target="_blank"</mark> y <mark>rel="noopener"</mark> para enlaces externos con seguridad, así como la gestión de rutas relativas desde el archivo actual (prohibiendo rutas de disco local). Finalmente, aprendí a crear anclas internas vinculando un atributo id único con <mark>href="#id"</mark> para facilitar la navegación dentro de la misma página o hacia secciones específicas de otras.</td>
+                <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/artiiculos.html" target="_blank">Ver</a></td>
+                <td><a href="recursos/clase-3-21-7-2026.png" target="_blank">Ver</a></td>
+            </tr>
+            <tr align="center">
+                <td>S05</td>
+                <td>Listas y tablas</td>
+                <td>En esta sesión aprendí a estructurar datos utilizando listas y tablas en HTML. Dominé el uso de listas desordenadas <mark>(`ul`)</mark>, ordenadas <mark>(`ol`)</mark> y descriptivas <mark>(`dl`)</mark>, así como el anidamiento correcto de sublistas estrictamente dentro de las etiquetas `li` del elemento padre. Asimismo, aprendí que las tablas deben usarse únicamente para información tabular y no para maquetación, organizándolas semánticamente con <mark>`caption`, `thead`, `tbody` y `tfoot`.</mark> Por último, comprendí cómo combinar celdas usando <mark>`colspan` y `rowspan`</mark> manteniendo la contabilidad exacta de columnas, e incorporando atributos como <mark>`scope="col"` y `scope="row"`</mark> en los encabezados <mark>`th`<mark> para garantizar la accesibilidad.</td>
+                <td><a href="" target="_blank">Ver</a></td>
+                <td><a href="" target="_blank">Ver</a></td>
+            </tr>
+            <tr align="center">
+                <td>S06</td>
+                <td>Formularios y semántica</td>
+                <td>Dato</td>
+                <td>Dato</td>
+                <td>Dato</td>
+            </tr>
+            <tr align="center">
+                <td>S07</td>
+                <td>Multimedia</td>
+                <td>Dato</td>
+                <td>Dato</td>
+                <td>Dato</td>
+            </tr>
+            <tr align="center">
+                <td>S08</td>
+                <td>SVG y repaso</td>
+                <td>Dato</td>
+                <td>Dato</td>
+                <td>Dato</td>
+            </tr>
+  </tbody>
+</table>
 <br>
 </details>
 
-
+<!-------------------------------------------------------UNIDAD 3----------------------------------------------------------------------------->
 
 <details>
 <summary><b>Unidad 3 · Codificación de hojas de estilo</b> (sesiones 11 a 20)</summary>
@@ -87,12 +159,11 @@ Portafolio-Codificación de Páginas Web/
                 <th><p align="center">Captura</p></th>
             </tr>
         </thead>
-
   <tbody>
             <tr align="center">
                 <td>S11</td>
                 <td>Introducción a CSS </td>
-                <td>Con este tema adquirí la competencia de gestionar y documentar los cambios realizados durante el desarrollo de un proyecto, comprendiendo la importancia de mantener un control organizado de las modificaciones. Aprendí cómo registrar los cambios, identificar versiones y dar seguimiento al progreso del trabajo para evitar errores y mantener un historial de las mejoras realizadas.</td>
+                <td></td>
                 <td><a href="unidad-03/" target="_blank">Ver</a></td>
                 <td><a href="unidad-03/" target="_blank">Ver</a></td>
             </tr>
@@ -100,108 +171,205 @@ Portafolio-Codificación de Páginas Web/
                 <td>S12</td>
                 <td>Selectores y pseudo-clases</td>
                 <td>Dato</td>
-                <td>Dato</td>
-                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
             </tr>
             <tr align="center">
                 <td>S13</td>
                 <td>Tipografía y color </td>
                 <td>Dato</td>
-                <td>Dato</td>
-                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
             </tr>
             <tr align="center">
                 <td>S14</td>
                 <td>Modelo de cajas </td>
                 <td>Dato</td>
-                <td>Dato</td>
-                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
             </tr>
             <tr align="center">
                 <td>S15</td>
                 <td>Display y posicionamiento</td>
                 <td>Dato</td>
-                <td>Dato</td>
-                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
             </tr>
             <tr align="center">
                 <td>S16</td>
                 <td>Flexbox</td>
                 <td>Dato</td>
-                <td>Dato</td>
-                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
             </tr>
             <tr align="center">
                 <td>S17</td>
                 <td>CSS Grid</td>
                 <td>Dato</td>
-                <td>Dato</td>
-                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
             </tr>
             <tr align="center">
                 <td>S18</td>
                 <td>Componentes estilizados</td>
                 <td>Dato</td>
-                <td>Dato</td>
-                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
             </tr>
             <tr align="center">
                 <td>S19</td>
                 <td>Danimaciones y filtrosto</td>
                 <td>Dato</td>
-                <td>Dato</td>
-                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
             </tr>
             <tr align="center">
                 <td>S20</td>
                 <td>SCSS y repaso</td>
                 <td>Dato</td>
-                <td>Dato</td>
-                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
             </tr>
   </tbody>
-
 </table>
-
 <br>
 </details>
+
+<!-------------------------------------------------------UNIDAD 4----------------------------------------------------------------------------->
 
 <details>
 <summary><b>Unidad 4 · Páginas web responsivas</b> (sesiones 23 a 28)</summary>
-
-| Sesión | Tema                            | Qué aprendí |      Trabajo      |     Captura      |
-| :----: | :------------------------------ | :---------- | :---------------: | :--------------: |
-|  S23   | Viewport y anchos fluidos       |             | [ver](unidad-04/) | [ver](recursos/) |
-|  S24   | Media queries y mobile-first    |             | [ver](unidad-04/) | [ver](recursos/) |
-|  S25   | Menú responsivo e impresión     |             | [ver](unidad-04/) | [ver](recursos/) |
-|  S26   | Imágenes y video adaptativos    |             | [ver](unidad-04/) | [ver](recursos/) |
-|  S27   | Patrones de diseño adaptativo I |             | [ver](unidad-04/) | [ver](recursos/) |
-|  S28   | Patrones II y repaso            |             | [ver](unidad-04/) | [ver](recursos/) |
-
+<br>
+<table>
+        <thead>
+            <tr>
+                <th><p align="center">Sesión</p></th>
+                <th><p align="center">Tema</p></th>
+                <th><p align="center">Qué aprendí</p></th>
+                <th><p align="center">Trabajo</p></th>
+                <th><p align="center">Captura</p></th>
+            </tr>
+        </thead>
+  <tbody>
+            <tr align="center">
+                <td>S23</td>
+                <td>Viewport y anchos fluidos</td>
+                <td></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+            </tr>
+            <tr align="center">
+                <td>S24</td>
+                <td>Media queries y mobile-first</td>
+                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+            </tr>
+            <tr align="center">
+                <td>S25</td>
+                <td>Menú responsivo e impresión</td>
+                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+            </tr>
+            <tr align="center">
+                <td>S26</td>
+                <td>Imágenes y video adaptativos</td>
+                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+            </tr>
+            <tr align="center">
+                <td>S27</td>
+                <td>Patrones de diseño adaptativo I</td>
+                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+            </tr>
+            <tr align="center">
+                <td>S28</td>
+                <td>Patrones II y repaso</td>
+                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+            </tr>
+  </tbody>
+</table>
 <br>
 </details>
 
+<!-------------------------------------------------------UNIDAD 5----------------------------------------------------------------------------->
+
 <details>
-<summary><b>Unidad 5 · Frameworks y librerías</b> (sesiones 31 a 36)</summary>
-
-| Sesión | Tema                          | Qué aprendí |      Trabajo      |     Captura      |
-| :----: | :---------------------------- | :---------- | :---------------: | :--------------: |
-|  S31   | Librerías y frameworks        |             | [ver](unidad-05/) | [ver](recursos/) |
-|  S32   | Sistema de rejilla I          |             | [ver](unidad-05/) | [ver](recursos/) |
-|  S33   | Sistema de rejilla II         |             | [ver](unidad-05/) | [ver](recursos/) |
-|  S34   | Tipografía y utilidades       |             | [ver](unidad-05/) | [ver](recursos/) |
-|  S35   | Formularios y navegación      |             | [ver](unidad-05/) | [ver](recursos/) |
-|  S36   | Componentes y personalización |             | [ver](unidad-05/) | [ver](recursos/) |
-
+<summary><b>U<b>Unidad 5 · Frameworks y librerías</b> (sesiones 31 a 36)</summary>
+<br>
+<table>
+        <thead>
+            <tr>
+                <th><p align="center">Sesión</p></th>
+                <th><p align="center">Tema</p></th>
+                <th><p align="center">Qué aprendí</p></th>
+                <th><p align="center">Trabajo</p></th>
+                <th><p align="center">Captura</p></th>
+            </tr>
+        </thead>
+  <tbody>
+            <tr align="center">
+                <td>S31</td>
+                <td>Librerías y frameworks</td>
+                <td></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+            </tr>
+            <tr align="center">
+                <td>S32</td>
+                <td>Sistema de rejilla I</td>
+                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+            </tr>
+            <tr align="center">
+                <td>S33</td>
+                <td>Sistema de rejilla II</td>
+                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+            </tr>
+            <tr align="center">
+                <td>S34</td>
+                <td>Tipografía y utilidades</td>
+                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+            </tr>
+            <tr align="center">
+                <td>S35</td>
+                <td>Formularios y navegación</td>
+                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+            </tr>
+            <tr align="center">
+                <td>S36</td>
+                <td>Componentes y personalización</td>
+                <td>Dato</td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+                <td><a href="unidad-03/" target="_blank">Ver</a></td>
+            </tr>
+  </tbody>
+</table>
 <br>
 </details>
 
 ---
 
-## 🖼 Galería de capturas
+<h2>🖼 Galería de capturas</h2>
 
-_(Sustituir por las capturas propias. Se recomienda incluir de tres a seis
-imágenes representativas de todo el módulo.)_
+
+<p align="center">
+  (Sustituir por las capturas propias. Se recomienda incluir de tres a seis imágenes representativas de todo el módulo.)
+</p>
+
 
 <p align="center">
   <img src="recursos/repositorio.png" width="600" alt="Sitio personal en vista de escritorio">
@@ -209,52 +377,90 @@ imágenes representativas de todo el módulo.)_
 
 <div align="center"><i>El sitio personal al cierre de la Unidad 3.</i></div>
 
-### El mismo sitio en dos anchos
+<h3>El mismo sitio en dos anchos</h3>
 
-|                             Móvil (375 px)                              |                               Escritorio (1280 px)                                |
-| :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-| <img src="recursos/ejemplo-movil.png" width="220" alt="Vista de móvil"> | <img src="recursos/ejemplo-escritorio.png" width="420" alt="Vista de escritorio"> |
+<table>
+        <thead>
+            <tr>
+                <th><p align="center">Móvil (375 px) </p></th>
+                <th><p align="center">Escritorio (1280 px) </p></th>
+            </tr>
+        </thead>
+  <tbody>
+            <tr align="center">
+                <td><img src="recursos/ejemplo-movil.png" width="220" alt="Vista de móvil"></td>
+                <td><img src="recursos/ejemplo-escritorio.png" width="420" alt="Vista de escritorio"></td>
+            </tr>
+  </tbody>
+</table>
 
 ---
 
-## 🎨 Decisiones técnicas documentadas
+<h2>🎨 Decisiones técnicas documentadas</h2>
 
 _(Completar conforme avanza el módulo. Ejemplos de lo que corresponde anotar aquí.)_
 
-| Decisión                       | Qué elegí | Por qué |
-| :----------------------------- | :-------- | :------ |
-| Puntos de quiebre              |           |         |
-| Patrones de diseño adaptativo  |           |         |
-| Método de enlace del framework |           |         |
+<table>
+        <thead>
+            <tr>
+                <th><p align="center">Decisión</p></th>
+                <th><p align="center">Qué elegí</p></th>
+                <th><p align="center">Por qué</p></th>
+            </tr>
+        </thead>
+  <tbody>
+            <tr>
+                <td>Puntos de quiebre</td>
+                <td>....</td>
+                <td>....</td>
+            </tr>
+            <tr>
+                <td>Patrones de diseño adaptativo</td>
+                <td>....</td>
+                <td>....</td>
+            </tr>
+            <tr>
+                <td>Método de enlace del framework</td>
+                <td>....</td>
+                <td>....</td>
+            </tr>
+  </tbody>
+</table>
 
 ---
 
-## 💭 Reflexión final
+<h2>💭 Reflexión final</h2>
 
 _(Escribir al cerrar el módulo. Tres preguntas para orientarla:)_
 
-1. ¿Qué sé hacer hoy que no sabía el primer día?
-2. Comparando mi sitio hecho a mano con el que construí con framework:
-   ¿qué fue más rápido, qué quedó más bajo mi control y cuándo usaría cada enfoque?
-3. ¿Qué me propongo seguir aprendiendo por mi cuenta?
+<ol>
+    <li>¿Qué sé hacer hoy que no sabía el primer día?</li>
+    <li>Comparando mi sitio hecho a mano con el que construí con framework</li>
+    <li>¿qué fue más rápido, qué quedó más bajo mi control y cuándo usaría cada enfoque?</li>
+    <li>¿Qué me propongo seguir aprendiendo por mi cuenta?</li>
+</ol>
 
 ---
 
-## 🛠 Herramientas empleadas
+<h2>🛠 Herramientas empleadas</h2>
 
-- **Editor:** Visual Studio Code con Live Server y Prettier
-- **Control de versiones:** Git y GitHub
-- **Lenguajes:** HTML5, CSS3, XML, SVG
-- **Framework:** Bootstrap 5 y Bootstrap Icons
-- **Validadores:** W3C Markup Validation Service y CSS Jigsaw
-- **Preprocesador:** SCSS/Sass
+<ul>
+    <li><strong>Editor:</strong> Visual Studio Code con Live Server y Prettier</li>
+    <li><strong>Control de versiones:</strong> Git y GitHub</li>
+    <li><strong>Lenguajes:</strong> HTML5, CSS3, XML, SVG</li>
+    <li><strong>Framework:</strong> Bootstrap 5 y Bootstrap Icons</li>
+    <li><strong>Validadores:</strong> W3C Markup Validation Service y CSS Jigsaw</li>
+    <li><strong>Preprocesador:</strong> SCSS/Sass</li>
+</ul>
 
 ---
 
 <div align="center">
 
-**Nombre Completo** · correo@ejemplo.com
+<strong>Nombre Completo</strong> · <a href="mailto:greivinmc1993hotmail.com">greivinmc1993hotmail.com</a>
 
-Portafolio elaborado durante el módulo CSTI12002 · Instituto Nacional de Aprendizaje · 2026
+<p>
+  Portafolio elaborado durante el módulo CSTI12002 · Instituto Nacional de Aprendizaje · 2026
+</p>
 
 </div>
