@@ -7,6 +7,8 @@
 <strong>CSTI12002 · Codificación de páginas web</strong> · Instituto Nacional de Aprendizaje
 Facilitador: Giovanni Antonio Coto Calderón · Edición 2 · 2026
 
+<br>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?logo=bootstrap&logoColor=white" alt="">
@@ -462,7 +464,7 @@ Portafolio-Codificación de Páginas Web/
 
 <div align="center">
 
-<strong>Nombre Completo</strong> · <a href="mailto:greivinmc1993@hotmail.com">greivinmc1993@hotmail.com</a>
+<strong>Greivin Montero Contreras</strong> · <a href="mailto:greivinmc1993@hotmail.com">greivinmc1993@hotmail.com</a>
 
 <p>
   Portafolio elaborado durante el módulo CSTI12002 · Instituto Nacional de Aprendizaje · 2026 · por Greivin Montero Contreras
