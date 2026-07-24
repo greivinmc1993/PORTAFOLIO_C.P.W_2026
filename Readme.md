@@ -34,7 +34,7 @@ Facilitador: Giovanni Antonio Coto Calderón · Edición 2 · 2026
 ```
 Portafolio-Codificación de Páginas Web/
 ├── Readme.md               ← este archivo
-├── recursos/               ← capturas de pantalla y material de apoyo
+├── RECURSOS/               ← capturas de pantalla y material de apoyo
 ├── UNIDAD_1_git/           ← Control de versiones
 ├── UNIDAD_2_html/          ← Etiquetas y atributos HTML
 ├── UNIDAD_3_css/           ← Codificación de hojas de estilo
@@ -67,7 +67,7 @@ Portafolio-Codificación de Páginas Web/
                     <td>Git y GitHub</td>
                     <td>Con este tema adquirí la competencia de gestionar y documentar los cambios realizados durante el desarrollo de un proyecto, comprendiendo la importancia de mantener un control organizado de las modificaciones. Aprendí cómo registrar los cambios, identificar versiones y dar seguimiento al progreso del trabajo para evitar errores y mantener un historial de las mejoras realizadas.</td>
                     <td><a href="UNIDAD_1_git/CLASE_2_20-7-2026/3.Guia_Trabajo_Colaborativo_GitHub2026.pdf" target="_blank">Ver</a></td>
-                    <td><a href="recursos/clase-1-2-7-2026.png" target="_blank">Ver</a></td>
+                    <td><a href="RECURSOS/clase-1-2-7-2026.png" target="_blank">Ver</a></td>
                 </tr>
             </tbody>
         </table>
@@ -95,21 +95,21 @@ Portafolio-Codificación de Páginas Web/
             <td>Git colaborativo, la web y XML</td>
             <td align="left">Aprendí a gestionar el control de versiones de forma profesional con Git y GitHub, aplicando un flujo colaborativo mediante la terminal integrada de VS Code y la interfaz remota. Puse en práctica este aprendizaje creando repositorios, trabajando con ramas paralelas, registrando cambios con commits atómicos convencionales, subiendo mi código y abriendo Pull Requests para la revisión de pares y fusión en la rama main. Resolví estas situaciones aplicando la «regla de oro» del curso: inspeccionar constantemente el estado con git status, realizar un git pull antes de trabajar, solucionar visualmente los marcadores de conflicto en el editor dejando la versión final deseada.</td>
             <td><a href="UNIDAD_1_git/CLASE_2_20-7-2026/3.Guia_Trabajo_Colaborativo_GitHub2026.pdf" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="recursos/clase-2-20-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/clase-2-20-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S03</td>
             <td>Estructura del documento HTML5</td>
             <td align="left">En esta sesión aprendí a configurar Visual Studio Code con extensiones clave como Prettier y Live Server para mantener un código limpio y en orden. Comprendí que HTML5 es gestionado por WHATWG como un estándar vivo en continua evolución, y dominé la estructura base del documento compuesta por <mark>&lt;!DOCTYPE html&gt;</mark>, <mark>&lt;html lang="es"&gt;</mark>, la cabecera <mark>&lt;head&gt;</mark> para metadatos no visibles (como la codificación UTF-8 y el viewport) y el <mark>&lt;body&gt;</mark> para el contenido visible. Finalmente, reconocí la importancia de los atributos globales, los comentarios explicativos y la validación con la W3C para garantizar que el sitio funcione correctamente en cualquier navegador.</td>
             <td><a href="UNIDAD_2_html/CLASE 3 21-7-2026/Presentacion_S04_Texto_Enlaces_Anclas.pptx" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="recursos/clase-4-22-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/clase-4-22-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S04</td>
             <td>Texto, enlaces y anclas</td>
             <td align="left">En esta sesión aprendí a estructurar texto y navegación en HTML usando jerarquía lógica de encabezados (<mark>h1</mark>-<mark>h6</mark> con un único <mark>h1</mark> sin saltarse niveles) y etiquetas semánticas para dar significado al contenido, como <mark>strong</mark>, <mark>em</mark>, <mark>blockquote</mark> y <mark>q</mark>. Dominé la creación de hipervínculos con <mark>&lt;a&gt;</mark> usando <mark>target="_blank"</mark> y <mark>rel="noopener"</mark> para enlaces externos con seguridad, así como la gestión de rutas relativas desde el archivo actual (prohibiendo rutas de disco local). Finalmente, aprendí a crear anclas internas vinculando un atributo id único con <mark>href="#id"</mark> para facilitar la navegación dentro de la misma página o hacia secciones específicas de otras.</td>
             <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/articulos.html" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="recursos/clase-3-21-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/clase-3-21-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S05</td>
@@ -256,42 +256,42 @@ Portafolio-Codificación de Páginas Web/
             <td>Viewport y anchos fluidos</td>
             <td align="left">Dato</td>
             <td><a href="unidad-04/" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="recursos/" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S24</td>
             <td>Media queries y mobile-first</td>
             <td align="left">Dato</td>
             <td><a href="unidad-04/" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="recursos/" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S25</td>
             <td>Menú responsivo e impresión</td>
             <td align="left">Dato</td>
             <td><a href="unidad-04/" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="recursos/" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S26</td>
             <td>Imágenes y video adaptativos</td>
             <td align="left">Dato</td>
             <td><a href="unidad-04/" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="recursos/" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S27</td>
             <td>Patrones de diseño adaptativo I</td>
             <td align="left">Dato</td>
             <td><a href="unidad-04/" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="recursos/" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S28</td>
             <td>Patrones II y repaso</td>
             <td align="left">Dato</td>
             <td><a href="unidad-04/" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="recursos/" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
     </tbody>
 </table>
@@ -319,42 +319,42 @@ Portafolio-Codificación de Páginas Web/
             <td>Librerías y frameworks</td>
             <td align="left">Dato</td>
             <td><a href="unidad-05/" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="recursos/" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S32</td>
             <td>Sistema de rejilla I</td>
             <td align="left">Dato</td>
             <td><a href="unidad-05/" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="recursos/" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S33</td>
             <td>Sistema de rejilla II</td>
             <td align="left">Dato</td>
             <td><a href="unidad-05/" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="recursos/" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S34</td>
             <td>Tipografía y utilidades</td>
             <td align="left">Dato</td>
             <td><a href="unidad-05/" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="recursos/" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S35</td>
             <td>Formularios y navegación</td>
             <td align="left">Dato</td>
             <td><a href="unidad-05/" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="recursos/" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S36</td>
             <td>Componentes y personalización</td>
             <td align="left">Dato</td>
             <td><a href="unidad-05/" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="recursos/" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
     </tbody>
 </table>
@@ -372,7 +372,7 @@ Portafolio-Codificación de Páginas Web/
 
 
 <p align="center">
-  <img src="recursos/repositorio.png" width="600" alt="Sitio personal en vista de escritorio">
+  <img src="RECURSOS/repositorio.png" width="600" alt="Sitio personal en vista de escritorio">
 </p>
 
 <div align="center"><i>El sitio personal al cierre de la Unidad 3.</i></div>
@@ -388,8 +388,8 @@ Portafolio-Codificación de Páginas Web/
         </thead>
   <tbody>
             <tr align="center">
-                <td><img src="recursos/ejemplo-movil.png" width="220" alt="Vista de móvil"></td>
-                <td><img src="recursos/ejemplo-escritorio.png" width="420" alt="Vista de escritorio"></td>
+                <td><img src="RECURSOS/ejemplo-movil.png" width="220" alt="Vista de móvil"></td>
+                <td><img src="RECURSOS/ejemplo-escritorio.png" width="420" alt="Vista de escritorio"></td>
             </tr>
   </tbody>
 </table>
