@@ -111,7 +111,7 @@ Portafolio-Codificación de Páginas Web/
             <td>Texto, enlaces y anclas</td>
             <td align="left">En esta sesión aprendí a estructurar texto y navegación en HTML usando jerarquía lógica de encabezados (<mark>h1</mark>-<mark>h6</mark> con un único <mark>h1</mark> sin saltarse niveles) y etiquetas semánticas para dar significado al contenido, como <mark>strong</mark>, <mark>em</mark>, <mark>blockquote</mark> y <mark>q</mark>. Dominé la creación de hipervínculos con <mark>&lt;a&gt;</mark> usando <mark>target="_blank"</mark> y <mark>rel="noopener"</mark> para enlaces externos con seguridad, así como la gestión de rutas relativas desde el archivo actual (prohibiendo rutas de disco local). Finalmente, aprendí a crear anclas internas vinculando un atributo id único con <mark>href="#id"</mark> para facilitar la navegación dentro de la misma página o hacia secciones específicas de otras.</td>
             <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/articulos.html" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="RECURSOS/clase-3-21-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/24-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S05</td>
