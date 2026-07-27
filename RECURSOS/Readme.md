@@ -117,8 +117,8 @@ Portafolio-Codificación de Páginas Web/
             <td>S05</td>
             <td>Listas y tablas</td>
             <td align="left">En esta sesión aprendí a estructurar datos utilizando listas y tablas en HTML. Dominé el uso de listas desordenadas (<mark>ul</mark>), ordenadas (<mark>ol</mark>) y descriptivas (<mark>dl</mark>), así como el anidamiento correcto de sublistas estrictamente dentro de las etiquetas <mark>li</mark> del elemento padre. Asimismo, aprendí que las tablas deben usarse únicamente para información tabular y no para maquetación, organizándolas semánticamente con <mark>caption</mark>, <mark>thead</mark>, <mark>tbody</mark> y <mark>tfoot</mark>. Por último, comprendí cómo combinar celdas usando <mark>colspan</mark> y <mark>rowspan</mark> manteniendo la contabilidad exacta de columnas, e incorporando atributos como <mark>scope="col"</mark> y <mark>scope="row"</mark> en los encabezados <mark>th</mark> para garantizar la accesibilidad.</td>
-            <td><a href="RECURSOS/Readme.md" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="RECURSOS/clase-27-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="Readme" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S06</td>
