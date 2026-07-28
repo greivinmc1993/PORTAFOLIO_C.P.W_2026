@@ -124,8 +124,8 @@ Portafolio-Codificación de Páginas Web/
             <td>S06</td>
             <td>Formularios y semántica</td>
             <td align="left">Dato</td>
-            <td><a href="" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/registro.html" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/CLASE-6-28-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S07</td>
