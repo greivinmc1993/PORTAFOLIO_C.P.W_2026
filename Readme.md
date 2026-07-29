@@ -1,3 +1,4 @@
+<div align="center" style="min-width=1000px;">
 <div align="center">
 
 <h1>📘 Portafolio de Evidencias</h1>
@@ -20,10 +21,10 @@ Facilitador: Giovanni Antonio Coto Calderón · Edición 2 · 2026
 
 <h2> 📖 Sobre este portafolio</h2>
 
->Este repositorio reúne el trabajo realizado durante las 150 horas del módulo
-><strong>Codificación de páginas web.</strong> Cada carpeta corresponde a una unidad de aprendizaje
->y contiene las prácticas de sus sesiones. El registro de evidencias, más abajo,
->documenta sesión por sesión qué se hizo y qué se aprendió.
+> Este repositorio reúne el trabajo realizado durante las 150 horas del módulo
+> <strong>Codificación de páginas web.</strong> Cada carpeta corresponde a una unidad de aprendizaje
+> y contiene las prácticas de sus sesiones. El registro de evidencias, más abajo,
+> documenta sesión por sesión qué se hizo y qué se aprendió.
 
 > Recorrido sugerido: empezar por el registro de evidencias y abrir los enlaces
 > de las sesiones que interesen. La galería de capturas muestra los resultados
@@ -53,7 +54,7 @@ Portafolio-Codificación de Páginas Web/
 <details>  <!-- UNIDAD 1-->
     <summary>▼<b>Unidad 1 · Implementación de control de versiones</b></summary>
         <br>
-        <table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: #dce6f0">
+        <table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 5px solid #dce6f0">
             <thead>
                 <tr>
                     <th><p align="center">Sesión</p></th>
@@ -81,7 +82,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 2 · Etiquetas y atributos HTML (sesiones 2 a 8)</b></summary>
 <br>
-<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: #dce6f0">
+        <table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 5px solid #dce6f0">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -151,7 +152,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 3 · Codificación de hojas de estilo (sesiones 11 a 20)</b></summary>
 <br>
-<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: #dce6f0">
+<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 5px solid #dce6f0">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -242,7 +243,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 4 · Páginas web responsivas (sesiones 23 a 28)</b></summary>
 <br>
-<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: #dce6f0">
+<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 5px solid #dce6f0">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -305,7 +306,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 5 · Frameworks y librerías (sesiones 31 a 36)</b></summary>
 <br>
-<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: #dce6f0">
+<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 5px solid #dce6f0">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -367,11 +368,9 @@ Portafolio-Codificación de Páginas Web/
 
 <h2>🖼 Galería de capturas</h2>
 
-
 <p align="center">
   (Sustituir por las capturas propias. Se recomienda incluir de tres a seis imágenes representativas de todo el módulo.)
 </p>
-
 
 <p align="center">
   <img src="RECURSOS/repositorio.png" width="600" alt="Sitio personal en vista de escritorio">
@@ -439,7 +438,6 @@ Portafolio-Codificación de Páginas Web/
   (Escribir al cerrar el módulo. Tres preguntas para orientarla:)
 </p>
 
-
 <ol>
     <li>¿Qué sé hacer hoy que no sabía el primer día?</li>
     <li>Comparando mi sitio hecho a mano con el que construí con framework</li>
@@ -470,4 +468,5 @@ Portafolio-Codificación de Páginas Web/
   Portafolio elaborado durante el módulo CSTI12002 · Instituto Nacional de Aprendizaje · 2026 · por Greivin Montero Contreras
 </p>
 
+</div>
 </div>
