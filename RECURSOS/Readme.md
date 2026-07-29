@@ -20,10 +20,10 @@ Facilitador: Giovanni Antonio Coto Calderón · Edición 2 · 2026
 
 <h2> 📖 Sobre este portafolio</h2>
 
-> Este repositorio reúne el trabajo realizado durante las 150 horas del módulo
-> <strong>Codificación de páginas web.</strong> Cada carpeta corresponde a una unidad de aprendizaje
-> y contiene las prácticas de sus sesiones. El registro de evidencias, más abajo,
-> documenta sesión por sesión qué se hizo y qué se aprendió.
+>Este repositorio reúne el trabajo realizado durante las 150 horas del módulo
+><strong>Codificación de páginas web.</strong> Cada carpeta corresponde a una unidad de aprendizaje
+>y contiene las prácticas de sus sesiones. El registro de evidencias, más abajo,
+>documenta sesión por sesión qué se hizo y qué se aprendió.
 
 > Recorrido sugerido: empezar por el registro de evidencias y abrir los enlaces
 > de las sesiones que interesen. La galería de capturas muestra los resultados
@@ -53,7 +53,7 @@ Portafolio-Codificación de Páginas Web/
 <details>  <!-- UNIDAD 1-->
     <summary>▼<b>Unidad 1 · Implementación de control de versiones</b></summary>
         <br>
-        <table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid #dce6f0">
+        <table border="1">
             <thead>
                 <tr>
                     <th><p align="center">Sesión</p></th>
@@ -81,7 +81,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 2 · Etiquetas y atributos HTML (sesiones 2 a 8)</b></summary>
 <br>
-        <table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid #dce6f0">
+<table border="1">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -117,22 +117,22 @@ Portafolio-Codificación de Páginas Web/
             <td>S05</td>
             <td>Listas y tablas</td>
             <td align="left">En esta sesión aprendí a estructurar datos utilizando listas y tablas en HTML. Dominé el uso de listas desordenadas (<mark>ul</mark>), ordenadas (<mark>ol</mark>) y descriptivas (<mark>dl</mark>), así como el anidamiento correcto de sublistas estrictamente dentro de las etiquetas <mark>li</mark> del elemento padre. Asimismo, aprendí que las tablas deben usarse únicamente para información tabular y no para maquetación, organizándolas semánticamente con <mark>caption</mark>, <mark>thead</mark>, <mark>tbody</mark> y <mark>tfoot</mark>. Por último, comprendí cómo combinar celdas usando <mark>colspan</mark> y <mark>rowspan</mark> manteniendo la contabilidad exacta de columnas, e incorporando atributos como <mark>scope="col"</mark> y <mark>scope="row"</mark> en los encabezados <mark>th</mark> para garantizar la accesibilidad.</td>
-            <td><a href="RECURSOS/Readme.md" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="RECURSOS/clase-27-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="Readme" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S06</td>
             <td>Formularios y semántica</td>
-            <td align="left">Aprendí a estructurar páginas web profesionales y accesibles usando HTML5 semántico (<mark>header, main, form</mark>) para darle significado al contenido. Comprendí el rol fundamental de los formularios con validaciones nativas sin JavaScript, conectando las etiquetas <mark>label e input</mark> mediante atributos clave como for, id y name, asegurando así un código ordenado, funcional y optimizado para navegadores y lectores de pantalla.</td>
-            <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/registro.html" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="RECURSOS/CLASE-6-28-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+            <td align="left">Dato</td>
+            <td><a href="" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S07</td>
             <td>Multimedia</td>
-            <td align="left">Aprendí a optimizar contenido multimedia (imágenes, audio y video) priorizando la compatibilidad y el rendimiento . Apliqué etiquetas como `<mark>img</mark>`, `<mark>audio</mark>` y `<mark>video</mark>` con atributos clave como `alt`, `controls` y `<mark>source</mark>`. Integré formatos modernos como WebP y MP4 para asegurar la accesibilidad y velocidad web.</td>
-            <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/galeria.html" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="RECURSOS/PRUEBA-29-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+            <td align="left">Dato</td>
+            <td><a href="" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S08</td>
@@ -151,7 +151,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 3 · Codificación de hojas de estilo (sesiones 11 a 20)</b></summary>
 <br>
-<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid #dce6f0">
+<table border="1">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -242,7 +242,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 4 · Páginas web responsivas (sesiones 23 a 28)</b></summary>
 <br>
-<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid #dce6f0">
+<table border="1">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -305,7 +305,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 5 · Frameworks y librerías (sesiones 31 a 36)</b></summary>
 <br>
-<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid #dce6f0">
+<table border="1">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -367,9 +367,11 @@ Portafolio-Codificación de Páginas Web/
 
 <h2>🖼 Galería de capturas</h2>
 
+
 <p align="center">
   (Sustituir por las capturas propias. Se recomienda incluir de tres a seis imágenes representativas de todo el módulo.)
 </p>
+
 
 <p align="center">
   <img src="RECURSOS/repositorio.png" width="600" alt="Sitio personal en vista de escritorio">
@@ -436,6 +438,7 @@ Portafolio-Codificación de Páginas Web/
 <p align="center">
   (Escribir al cerrar el módulo. Tres preguntas para orientarla:)
 </p>
+
 
 <ol>
     <li>¿Qué sé hacer hoy que no sabía el primer día?</li>
