@@ -53,7 +53,7 @@ Portafolio-Codificación de Páginas Web/
 <details>  <!-- UNIDAD 1-->
     <summary>▼<b>Unidad 1 · Implementación de control de versiones</b></summary>
         <br>
-        <table border="3">
+        <table border="3" style="min-width: 1000px">
             <thead>
                 <tr>
                     <th><p align="center">Sesión</p></th>
@@ -81,7 +81,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 2 · Etiquetas y atributos HTML (sesiones 2 a 8)</b></summary>
 <br>
-<table border="3" style="max-width: 1000px; min-width: 400px">
+<table border="3" style="min-width: 1000px">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -151,7 +151,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 3 · Codificación de hojas de estilo (sesiones 11 a 20)</b></summary>
 <br>
-<table border="3">
+<table border="3" style="min-width: 1000px">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -242,7 +242,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 4 · Páginas web responsivas (sesiones 23 a 28)</b></summary>
 <br>
-<table border="3">
+<table border="3" style="min-width: 1000px">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -305,7 +305,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 5 · Frameworks y librerías (sesiones 31 a 36)</b></summary>
 <br>
-<table border="3">
+<table border="3" style="min-width: 1000px">
     <thead>
         <tr>
             <th align="center">Sesión</th>
