@@ -53,7 +53,7 @@ Portafolio-Codificación de Páginas Web/
 <details>  <!-- UNIDAD 1-->
     <summary>▼<b>Unidad 1 · Implementación de control de versiones</b></summary>
         <br>
-        <table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid #dce6f0">
+        <table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid &gtdce6f0">
             <thead>
                 <tr>
                     <th><p align="center">Sesión</p></th>
@@ -81,7 +81,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 2 · Etiquetas y atributos HTML (sesiones 2 a 8)</b></summary>
 <br>
-        <table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid #dce6f0">
+        <table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid &gtdce6f0">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -102,35 +102,35 @@ Portafolio-Codificación de Páginas Web/
         <tr align="center">
             <td>S03</td>
             <td>Estructura del documento HTML5</td>
-            <td align="left">En esta sesión aprendí a configurar Visual Studio Code con extensiones clave como Prettier y Live Server para mantener un código limpio y en orden. Comprendí que HTML5 es gestionado por WHATWG como un estándar vivo en continua evolución, y dominé la estructura base del documento compuesta por <mark>&lt;!DOCTYPE html&gt;</mark>, <mark>&lt;html lang="es"&gt;</mark>, la cabecera <mark>&lt;head&gt;</mark> para metadatos no visibles (como la codificación UTF-8 y el viewport) y el <mark>&lt;body&gt;</mark> para el contenido visible. Finalmente, reconocí la importancia de los atributos globales, los comentarios explicativos y la validación con la W3C para garantizar que el sitio funcione correctamente en cualquier navegador.</td>
+            <td align="left">En esta sesión aprendí a configurar Visual Studio Code con extensiones clave como Prettier y Live Server para mantener un código limpio y en orden. Comprendí que HTML5 es gestionado por WHATWG como un estándar vivo en continua evolución, y dominé la estructura base del documento compuesta por <mark>!DOCTYPE html</mark>, <mark>html lang="es"</mark>, la cabecera <mark>&lt;head&gt;</mark> para metadatos no visibles (como la codificación UTF-8 y el viewport) y el <mark>&lt;body&gt;</mark> para el contenido visible. Finalmente, reconocí la importancia de los atributos globales, los comentarios explicativos y la validación con la W3C para garantizar que el sitio funcione correctamente en cualquier navegador.</td>
             <td><a href="UNIDAD_2_html/CLASE 3 21-7-2026/Presentacion_S04_Texto_Enlaces_Anclas.pptx" target="_blank" rel="noopener">Ver</a></td>
             <td><a href="RECURSOS/clase-4-22-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S04</td>
             <td>Texto, enlaces y anclas</td>
-            <td align="left">En esta sesión aprendí a estructurar texto y navegación en HTML usando jerarquía lógica de encabezados (<mark>h1</mark>-<mark>h6</mark> con un único <mark>h1</mark> sin saltarse niveles) y etiquetas semánticas para dar significado al contenido, como <mark>strong</mark>, <mark>em</mark>, <mark>blockquote</mark> y <mark>q</mark>. Dominé la creación de hipervínculos con <mark>&lt;a&gt;</mark> usando <mark>target="_blank"</mark> y <mark>rel="noopener"</mark> para enlaces externos con seguridad, así como la gestión de rutas relativas desde el archivo actual (prohibiendo rutas de disco local). Finalmente, aprendí a crear anclas internas vinculando un atributo id único con <mark>href="#id"</mark> para facilitar la navegación dentro de la misma página o hacia secciones específicas de otras.</td>
+            <td align="left">En esta sesión aprendí a estructurar texto y navegación en HTML usando jerarquía lógica de encabezados (<mark>&lth1&gt</mark>-<mark>&lth6&gt</mark> con un único <mark>&lth1&gt</mark> sin saltarse niveles) y etiquetas semánticas para dar significado al contenido, como <mark>strong</mark>, <mark>&ltem&gt</mark>, <mark>&ltblockquote&gt</mark> y <mark>&ltq&gt</mark>. Dominé la creación de hipervínculos con <mark>&lt;a&gt;</mark> usando <mark>target="_blank"</mark> y <mark>rel="noopener"</mark> para enlaces externos con seguridad, así como la gestión de rutas relativas desde el archivo actual (prohibiendo rutas de disco local). Finalmente, aprendí a crear anclas internas vinculando un atributo id único con <mark>href="&gtid"</mark> para facilitar la navegación dentro de la misma página o hacia secciones específicas de otras.</td>
             <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/articulos.html" target="_blank" rel="noopener">Ver</a></td>
             <td><a href="RECURSOS/24-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S05</td>
             <td>Listas y tablas</td>
-            <td align="left">En esta sesión aprendí a estructurar datos utilizando listas y tablas en HTML. Dominé el uso de listas desordenadas (<mark>ul</mark>), ordenadas (<mark>ol</mark>) y descriptivas (<mark>dl</mark>), así como el anidamiento correcto de sublistas estrictamente dentro de las etiquetas <mark>li</mark> del elemento padre. Asimismo, aprendí que las tablas deben usarse únicamente para información tabular y no para maquetación, organizándolas semánticamente con <mark>caption</mark>, <mark>thead</mark>, <mark>tbody</mark> y <mark>tfoot</mark>. Por último, comprendí cómo combinar celdas usando <mark>colspan</mark> y <mark>rowspan</mark> manteniendo la contabilidad exacta de columnas, e incorporando atributos como <mark>scope="col"</mark> y <mark>scope="row"</mark> en los encabezados <mark>th</mark> para garantizar la accesibilidad.</td>
+            <td align="left">En esta sesión aprendí a estructurar datos utilizando listas y tablas en HTML. Dominé el uso de listas desordenadas (<mark>&ltul&gt</mark>), ordenadas (<mark>&ltol&gt</mark>) y descriptivas (<mark>&ltdl&gt</mark>), así como el anidamiento correcto de sublistas estrictamente dentro de las etiquetas <mark>&ltli&gt</mark> del elemento padre. Asimismo, aprendí que las tablas deben usarse únicamente para información tabular y no para maquetación, organizándolas semánticamente con <mark>&ltcaption&gt</mark>, <mark>&ltthead&gt</mark>, <mark>&lttbody&gt</mark> y <mark>&lttfoot&gt</mark>. Por último, comprendí cómo combinar celdas usando <mark>colspan</mark> y <mark>rowspan</mark> manteniendo la contabilidad exacta de columnas, e incorporando atributos como <mark>scope="col"</mark> y <mark>scope="row"</mark> en los encabezados <mark>&ltth&gt</mark> para garantizar la accesibilidad.</td>
             <td><a href="RECURSOS/Readme.md" target="_blank" rel="noopener">Ver</a></td>
             <td><a href="RECURSOS/clase-27-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S06</td>
             <td>Formularios y semántica</td>
-            <td align="left">Aprendí a estructurar páginas web profesionales y accesibles usando HTML5 semántico (<mark>header, main, form</mark>) para darle significado al contenido. Comprendí el rol fundamental de los formularios con validaciones nativas sin JavaScript, conectando las etiquetas <mark>label e input</mark> mediante atributos clave como for, id y name, asegurando así un código ordenado, funcional y optimizado para navegadores y lectores de pantalla.</td>
+            <td align="left">Aprendí a estructurar páginas web profesionales y accesibles usando HTML5 semántico (<mark>&ltheader&gt &ltmain&gt, &ltform&gt</mark>) para darle significado al contenido. Comprendí el rol fundamental de los formularios con validaciones nativas sin JavaScript, conectando las etiquetas <mark>&ltlabel&gt e &ltinput&gt</mark> mediante atributos clave como for, id y name, asegurando así un código ordenado, funcional y optimizado para navegadores y lectores de pantalla.</td>
             <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/registro.html" target="_blank" rel="noopener">Ver</a></td>
             <td><a href="RECURSOS/CLASE-6-28-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S07</td>
             <td>Multimedia</td>
-            <td align="left">Aprendí a optimizar contenido multimedia (imágenes, audio y video) priorizando la compatibilidad y el rendimiento . Apliqué etiquetas como `<mark>img</mark>`, `<mark>audio</mark>` y `<mark>video</mark>` con atributos clave como `alt`, `controls` y `<mark>source</mark>`. Integré formatos modernos como WebP y MP4 para asegurar la accesibilidad y velocidad web.</td>
+            <td align="left">Aprendí a optimizar contenido multimedia (imágenes, audio y video) priorizando la compatibilidad y el rendimiento . Apliqué etiquetas como <mark>&ltimg&gt</mark>, <mark>&ltaudio&gt</mark> y <mark>&ltvideo&gt</mark> con atributos clave como <mark>`alt`, `controls`</mark> y `<mark>source</mark>`. Integré formatos modernos como WebP y MP4 para asegurar la accesibilidad y velocidad web.</td>
             <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/galeria.html" target="_blank" rel="noopener">Ver</a></td>
             <td><a href="RECURSOS/PRUEBA-29-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
@@ -151,7 +151,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 3 · Codificación de hojas de estilo (sesiones 11 a 20)</b></summary>
 <br>
-<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid #dce6f0">
+<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid &gtdce6f0">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -242,7 +242,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 4 · Páginas web responsivas (sesiones 23 a 28)</b></summary>
 <br>
-<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid #dce6f0">
+<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid &gtdce6f0">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -305,7 +305,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 5 · Frameworks y librerías (sesiones 31 a 36)</b></summary>
 <br>
-<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid #dce6f0">
+<table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid &gtdce6f0">
     <thead>
         <tr>
             <th align="center">Sesión</th>
