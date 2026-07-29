@@ -53,7 +53,7 @@ Portafolio-Codificación de Páginas Web/
 <details>  <!-- UNIDAD 1-->
     <summary>▼<b>Unidad 1 · Implementación de control de versiones</b></summary>
         <br>
-        <table border="1">
+        <table border="2">
             <thead>
                 <tr>
                     <th><p align="center">Sesión</p></th>
@@ -81,7 +81,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 2 · Etiquetas y atributos HTML (sesiones 2 a 8)</b></summary>
 <br>
-<table border="1">
+<table border="2" min-width="800px">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -123,7 +123,7 @@ Portafolio-Codificación de Páginas Web/
         <tr align="center">
             <td>S06</td>
             <td>Formularios y semántica</td>
-            <td align="left">Dato</td>
+            <td align="left">Aprendí a estructurar páginas web profesionales y accesibles usando HTML5 semántico (<mark>header, main, form</mark>) para darle significado al contenido. Comprendí el rol fundamental de los formularios con validaciones nativas sin JavaScript, conectando las etiquetas <mark>label e input</mark> mediante atributos clave como for, id y name, asegurando así un código ordenado, funcional y optimizado para navegadores y lectores de pantalla.</td>
             <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/registro.html" target="_blank" rel="noopener">Ver</a></td>
             <td><a href="RECURSOS/CLASE-6-28-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
@@ -151,7 +151,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 3 · Codificación de hojas de estilo (sesiones 11 a 20)</b></summary>
 <br>
-<table border="1">
+<table border="2">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -242,7 +242,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 4 · Páginas web responsivas (sesiones 23 a 28)</b></summary>
 <br>
-<table border="1">
+<table border="2">
     <thead>
         <tr>
             <th align="center">Sesión</th>
@@ -305,7 +305,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 5 · Frameworks y librerías (sesiones 31 a 36)</b></summary>
 <br>
-<table border="1">
+<table border="2">
     <thead>
         <tr>
             <th align="center">Sesión</th>
