@@ -81,7 +81,7 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary>▼<b>Unidad 2 · Etiquetas y atributos HTML (sesiones 2 a 8)</b></summary>
 <br>
-<table border="3" style="min-width: 1000px;">>
+<table border="3" style="max-width: 1000px; min-width: 400px">
     <thead>
         <tr>
             <th align="center">Sesión</th>
