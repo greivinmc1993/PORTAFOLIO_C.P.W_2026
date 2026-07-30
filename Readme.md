@@ -139,7 +139,7 @@ Portafolio-Codificación de Páginas Web/
             <td>SVG y repaso</td>
             <td align="left">Aprendí que los gráficos SVG permiten crear imágenes vectoriales escalables sin perder calidad, utilizando figuras, coordenadas, atributos y estilos en HTML, facilitando diseños ligeros, editables y adaptables.</td>
             <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/insignia.html" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="Recursos/CLASE-8-30-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/CLASE-8-30-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
     </tbody>
 </table>
