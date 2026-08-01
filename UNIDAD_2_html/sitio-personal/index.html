@@ -17,8 +17,7 @@
     <body>
         <!-- Encabezado del sitio web -->
         <header id="header">
-            <h1>React:</h1>
-            <p>La mejor biblioteca para construir interfaces de usuario</p>
+            <h1>React</h1>
             <nav>
                 <ul>
                     <li><a href="index.html">Inicio</a></li>
@@ -30,34 +29,117 @@
         </header>
         <!-- Contenido principal del sitio web -->
         <main id="main">
-            <h2 id="react">React</h2>
-                <p>React es una biblioteca de JavaScript de código abierto que se utiliza para construir interfaces de usuario, especialmente para aplicaciones web de una sola página. Fue desarrollada por Facebook y se lanzó por primera vez en 2013. React permite a los desarrolladores crear componentes reutilizables que representan partes de la interfaz de usuario, lo que facilita la construcción y el mantenimiento de aplicaciones complejas.</p>
+            <h2>React: Una revolución en el desarrollo web</h2>
 
-            <h2 id="historia">React Historia</h2>
-                <p>React fue creado por Jordan Walke, un ingeniero de software de Facebook, y se lanzó por primera vez en 2013. Desde entonces, ha ganado popularidad y se ha convertido en una de las bibliotecas más utilizadas para el desarrollo de aplicaciones web. React ha sido adoptado por muchas empresas y desarrolladores debido a su enfoque en la eficiencia, la reutilización de componentes y la facilidad de mantenimiento.</p>
-
-            <h2 id="caracteristicas">React Características</h2>
-                <p>React ofrece varias características clave que lo hacen popular entre los desarrolladores:</p>
+            <nav>
+                <h3>Índice</h3>
                 <ul>
-                    <li>Componentes reutilizables: Los desarrolladores pueden crear componentes independientes que se pueden reutilizar en diferentes partes de la aplicación.</li>
-                    <li>Virtual DOM: React utiliza un Virtual DOM para mejorar el rendimiento al actualizar solo las partes necesarias de la interfaz de usuario.</li>
-                    <li>Unidireccionalidad de datos: React sigue un flujo de datos unidireccional, lo que facilita el seguimiento del estado de la aplicación.</li>
-                    <li>JSX: React utiliza JSX, una sintaxis que permite escribir código similar a HTML dentro de JavaScript, lo que facilita la creación de componentes.</li>
+                    <li><a href="#react">React</a></li>
+                    <li><a href="#historia">Historia</a></li>
+                    <li><a href="#ventajas">Ventajas</a></li>
+                    <li><a href="#filosofia-react">Filosofía de React</a></li>
                 </ul>
+            </nav>
 
-            <article>
-                <h4 id="ventajas">React Ventajas</h4>
-                <p>La compañía creadora es Facebook.</p>
-            </article>
+                <section id="react">
+                    <h3>React</h3>
+                        <p>
+                            <strong>React</strong> es una biblioteca de JavaScript de código abierto diseñada para construir interfaces de usuario, creada inicialmente por el ingeniero Jordan Walke en Facebook y lanzada en 2013. Su llegada revolucionó la forma en que se construyen las aplicaciones web al introducir un paradigma declarativo. En lugar de que el programador manipule manualmente cada elemento de la página, simplemente describe cómo debería verse la interfaz visual según el estado de la información, y React se encarga de actualizar la pantalla de manera eficiente cada vez que los datos cambian.
+                        </p>
+
+                        <p>
+                            La arquitectura de esta herramienta se basa fundamentalmente en la creación de <strong>componentes reutilizables.</strong> Estos actúan como bloques de construcción independientes que contienen su propia lógica y estructura, lo que facilita enormemente el mantenimiento y la escalabilidad de proyectos complejos. Para lograr su alto rendimiento, React utiliza un <strong>Virtual DOM</strong> (una representación ligera de la página en la memoria de la computadora); esto le permite calcular y aplicar únicamente los cambios mínimos y estrictamente necesarios en el navegador web, logrando aplicaciones sumamente rápidas y fluidas.
+                        </p>
+
+                        <p>
+                            Más allá de sus características técnicas, React ha generado un profundo <strong>impacto cultural</strong> dentro de la comunidad de programación mundial. Su filosofía ayudó a estandarizar el desarrollo <em>front-end moderno</em>, impulsando a toda una generación de creadores a cambiar su forma de pensar, diseñar y estructurar los proyectos digitales. Hoy en día, no solo cuenta con un gigantesco ecosistema de herramientas y librerías que giran a su alrededor, sino que se ha consolidado como un pilar de la industria que dicta las bases de cómo interactuamos con la web.
+                        </p>
+
+                        <p>
+                            React es una herramienta especializada en la creación de <abbr title="User Interface (Interfaz de Usuario)">UI</abbr> complejas e interactivas. Para lograr su velocidad característica, no manipula directamente la página, sino que utiliza un <abbr title="Document Object Model (Modelo de Objetos del Documento)">DOM</abbr> virtual para calcular los cambios antes de mostrarlos en la pantalla.
+                        </p>
+
+                </section>
+
+                <section id="historia">
+                    <h3>React Historia</h3>
+                        <p>La Línea de Tiempo de React
+                        2011 - El problema en Facebook: A medida que la plataforma de anuncios de Facebook crecía, su interfaz de usuario se volvió increíblemente compleja y difícil de mantener. Para solucionar los constantes errores de sincronización en la pantalla, Jordan Walke, un ingeniero de la compañía, creó un prototipo llamado "FaxJS". Esta fue la primera versión no oficial de lo que hoy conocemos como React.
+                        <br><br>
+
+                        <ul>
+                            <li>
+                                2012 - La llegada de Instagram: Cuando Facebook compró Instagram, el equipo de desarrollo de esta nueva red social quiso utilizar la tecnología que Walke había creado. Para lograrlo, el equipo tuvo que separar el código de <em>"FaxJS"</em> de la infraestructura interna de Facebook, haciéndolo una biblioteca independiente y sentando las bases de React.
+                                <br><br>
+                            </li>
+
+                            <li>
+                                2013 - El salto al Código Abierto: React fue presentado públicamente y liberado como código abierto (open-source) durante la convención JSConf US. Al principio, la comunidad de desarrolladores fue muy escéptica; la idea de mezclar código HTML dentro de JavaScript (lo que hoy conocemos como JSX) iba en contra de las prácticas tradicionales de la época.
+                                <br><br>
+                            </li>
+
+                            <li>
+                                2015 - Expansión a dispositivos móviles: Facebook dio un paso gigantesco al lanzar React Native. Esto permitió a los programadores utilizar la misma filosofía y estructura de componentes de React para crear aplicaciones nativas tanto para iOS como para Android, multiplicando la popularidad de la herramienta.
+                                <br><br>
+                            </li>
+                            <li>
+                                2019 - La revolución de los Hooks: Con el lanzamiento de la versión 16.8, React introdujo los <em>"Hooks".</em> Esta actualización cambió por completo la forma de escribir código en la biblioteca, permitiendo a los desarrolladores manejar información compleja utilizando funciones simples en lugar de las tediosas "clases" tradicionales.
+                                <br><br>
+                            </li>
+                        </ul>
+                        <p>
+                            Hoy en día, React es mantenido activamente por Meta (la empresa matriz de Facebook) junto con una comunidad masiva de desarrolladores independientes, y es el motor detrás de sitios web como Netflix, Airbnb y Reddit.
+                        </p>
+                </section>
+
+                <section id="ventajas">
+                    <h3>React Ventajas</h3>
+                        <p>React ofrece varias ventajas que lo hacen popular entre los desarrolladores:</p>
+                        <ul>
+                            <li>Componentes reutilizables: Los desarrolladores pueden crear componentes independientes que se pueden reutilizar en diferentes partes de la aplicación.</li>
+                            <li>Virtual DOM: React utiliza un Virtual DOM para mejorar el rendimiento al actualizar solo las partes necesarias de la interfaz de usuario.</li>
+                            <li>Unidireccionalidad de datos: React sigue un flujo de datos unidireccional, lo que facilita el seguimiento del estado de la aplicación.</li>
+                            <li>JSX: React utiliza JSX, una sintaxis que permite escribir código similar a HTML dentro de JavaScript, lo que facilita la creación de componentes.</li>
+                        </ul>
+
+                </section>
+
+                <section id="filosofia-react">
+                    <h3>La Filosofía de React</h3>
+                        <p>
+                            El cambio de mentalidad es fundamental al aprender esta biblioteca. De hecho, el equipo de desarrollo afirma que <q>React te hace pensar en componentes</q>, lo cual significa que en lugar de ver una página web como un solo documento gigante, debes empezar a verla como un rompecabezas formado por pequeñas piezas independientes.
+                        </p>
+                </section>
+                
             <hr>
         </main>
+
+        <article>
+            <h3>El impacto de React</h3>
+                <p>React ha transformado el desarrollo web moderno. Más allá de ser una simple biblioteca de interfaces, su evolución ha marcado una enorme relevancia cultural en la forma en que pensamos y construimos aplicaciones, estandarizando el uso de componentes reutilizables e interactivos en todo el mundo.</p>
+
+                <a href="https://es.react.dev/" target="_blank" rel="noopener noreferrer">Explorar la documentación oficial</a>
+
+                <blockquote cite="https://es.react.dev/learn/thinking-in-react">
+                    <p>
+                        React puede cambiar tu forma de pensar sobre los diseños que miras y las aplicaciones que construyes. Cuando construyes una interfaz de usuario con React, primero la divides en piezas llamadas componentes. Luego, describes los diferentes estados visuales de cada uno de tus componentes. Por último, conectas tus componentes entre sí para que los datos fluyan a través de ellos de manera lógica.
+                    </p>
+    
+                        <!-- Autoría al final -->
+                        <p>— <cite>Equipo de desarrollo de React</cite></p>
+                </blockquote>
+        </article>
+
+        <a href="#header">Volver al inicio</a><br><br>
+
         <!-- Pie de página del sitio web -->
         <footer id="footer">
             <address>
-                <p>
-                    Greivin Montero Contretras | <a href="mailto:greivin.montero@correo.com">greivin.montero@correo.com</a> | 2026 - Todos los derechos reservados &copy; Greivin Montero Contretras
-                </p>
+                <b>San josé, Costa Rica. Teléfono:</b> +506 8888-8888 <br>
+                <a href="mailto:greivin.montero@correo.com">greivin.montero@correo.com</a> | 
             </address>
+
+            <p><small>2026 - Todos los derechos reservados &copy; Greivin Montero Contretras</small></p>
         </footer>
 
     </body>
