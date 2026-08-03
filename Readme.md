@@ -162,7 +162,7 @@ Portafolio-Codificación de Páginas Web/
                     <td>Estructura semántica, metadatos, texto jerarquizado, citas, enlaces y anclas</td>
                     <td align="left">S03 · S04 · S06</td>
                     <td><a href="/UNIDAD_2_html/sitio-personal/index.html" target="_blank" rel="noopener">Ver</a></td>
-                    <td><a href="recursos/Hora-1.png" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="/RECURSOS/Hora-1.png" target="_blank" rel="noopener">Ver</a></td>
                 </tr>
                 <tr align="center">
                     <td>listas.html</td>
