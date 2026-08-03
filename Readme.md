@@ -221,7 +221,7 @@ Portafolio-Codificación de Páginas Web/
         </table>
         <h2> 🥹 Cómo se ve</h2>
         <p align="center">
-            <img src="recursos/index.png" width="600" alt="Portada del sitio personal">
+            <img src="RECURSOS/index.png" width="600" alt="Portada del sitio personal">
         </p>
         <div align="center" border="3">
             <h2>Portada del sitio personal al cerrar la Unidad 2.</h2>
