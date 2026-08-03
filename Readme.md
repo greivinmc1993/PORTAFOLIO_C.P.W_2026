@@ -210,12 +210,12 @@ Portafolio-Codificación de Páginas Web/
                 <tr align="center">
                     <td>Formatos de imagen usados</td>
                     <td>Webp, png, etc.</td>
-                    <td align="left">Son los Más Óptimos</td>
+                    <td align="left">Son los Más Óptimos.</td>
                 </tr>
                 <tr align="center">
                     <td>Formas del gráfico SVG</td>
-                    <td>....</td>
-                    <td align="left">....</td>
+                    <td>Varias formas.</td>
+                    <td align="left">Porque lo solicita el documento.</td>
                 </tr>
             </tbody>
         </table>
@@ -226,7 +226,7 @@ Portafolio-Codificación de Páginas Web/
         <div align="center" border="3">
             <h2>Portada del sitio personal al cerrar la Unidad 2.</h2>
         </div>
-        <h2>Comprobado en dos navegadores: <small><a href="" target="_blank" rel="noopener">Chrome |</a><a href="" target="_blank" rel="noopener"> FireFox</a></small></h2>
+        <h2>Comprobado en dos navegadores: <small><a href="/RECURSOS/chrome.png" target="_blank" rel="noopener">Chrome |</a><a href="/RECURSOS/firefox.png" target="_blank" rel="noopener"> FireFox</a></small></h2>
 
 <br>
 </details>
