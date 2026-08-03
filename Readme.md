@@ -143,8 +143,8 @@ Portafolio-Codificación de Páginas Web/
                 </tr>
             </tbody>
         </table>
-        <h2> 😎 El sitio personal</h2>
         <br>
+        <h2> 😎 El sitio personal</h2>
         <p>Proyecto propio construido de forma autónoma. <strong>Tema del sitio:</strong> (escribir aquí el tema elegido)</p>
         <table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid &gt;dce6f0">
             <thead>
@@ -161,29 +161,29 @@ Portafolio-Codificación de Páginas Web/
                     <td>index.html</td>
                     <td>Estructura semántica, metadatos, texto jerarquizado, citas, enlaces y anclas</td>
                     <td align="left">S03 · S04 · S06</td>
-                    <td><a href="/UNIDAD_2_html/sitio-personal/index.html" target="_blank" rel="noopener">Ver</a></td>
-                    <td><a href="/RECURSOS/Hora-1.png" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="UNIDAD_2_html/sitio-personal/index.html" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="RECURSOS/Hora-1.png" target="_blank" rel="noopener">Ver</a></td>
                 </tr>
                 <tr align="center">
                     <td>listas.html</td>
                     <td>Las tres listas, lista anidada y tabla con celdas combinadas</td>
                     <td align="left">S05</td>
-                    <td><a href="/UNIDAD_2_html/sitio-personal/listas.html" target="_blank" rel="noopener">Ver</a></td>
-                    <td><a href="/RECURSOS/Hora-3.png" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="UNIDAD_2_html/sitio-personal/listas.html" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="RECURSOS/Hora-3.png" target="_blank" rel="noopener">Ver</a></td>
                 </tr>
                 <tr align="center">
                     <td>contacto.html</td>
                     <td>Formulario con ocho campos y validación de HTML</td>
                     <td align="left">S06</td>
-                    <td><a href="/UNIDAD_2_html/sitio-personal/contacto.html" target="_blank" rel="noopener">Ver</a></td>
-                    <td><a href="/RECURSOS/Hora-4.png" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="UNIDAD_2_html/sitio-personal/contacto.html" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="RECURSOS/Hora-4.png" target="_blank" rel="noopener">Ver</a></td>
                 </tr>
                 <tr align="center">
                     <td>galeria.html</td>
                     <td>Imágenes, audio, video con subtítulos y gráficas SVG</td>
                     <td align="left">S07 · S08</td>
-                    <td><a href="/UNIDAD_2_html/sitio-personal/galeria.html" target="_blank" rel="noopener">Ver</a></td>
-                    <td><a href="/RECURSOS/Hora-6.png" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="UNIDAD_2_html/sitio-personal/galeria.html" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="RECURSOS/Hora-6.png" target="_blank" rel="noopener">Ver</a></td>
                 </tr>
             </tbody>
         </table>
