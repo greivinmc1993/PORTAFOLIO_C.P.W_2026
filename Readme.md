@@ -168,15 +168,15 @@ Portafolio-Codificación de Páginas Web/
                     <td>listas.html</td>
                     <td>Las tres listas, lista anidada y tabla con celdas combinadas</td>
                     <td align="left">S05</td>
-                    <td><a href="/UNIDAD_2_html/sitio-personal/index.html" target="_blank" rel="noopener">Ver</a></td>
-                    <td><a href="/RECURSOS/Hora-2.png" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="/UNIDAD_2_html/sitio-personal/listas.html" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="/RECURSOS/Hora-3.png" target="_blank" rel="noopener">Ver</a></td>
                 </tr>
                 <tr align="center">
                     <td>contacto.html</td>
                     <td>Formulario con ocho campos y validación de HTML</td>
                     <td align="left">S06</td>
-                    <td><a href="" target="_blank" rel="noopener">Ver</a></td>
-                    <td><a href="" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="/UNIDAD_2_html/sitio-personal/contacto.html" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="/RECURSOS/Hora-4.png" target="_blank" rel="noopener">Ver</a></td>
                 </tr>
                 <tr align="center">
                     <td>galeria.html</td>
