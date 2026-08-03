@@ -226,7 +226,7 @@ Portafolio-Codificación de Páginas Web/
         <div align="center" border="3">
             <h2>Portada del sitio personal al cerrar la Unidad 2.</h2>
         </div>
-        <h2>Comprobado en dos navegadores: <small><a href="/RECURSOS/chrome.png" target="_blank" rel="noopener">Chrome |</a><a href="/RECURSOS/firefox.png" target="_blank" rel="noopener"> FireFox</a></small></h2>
+        <h2>Comprobado en dos navegadores: <small><a href="RECURSOS/chrome.png" target="_blank" rel="noopener">Chrome |</a><a href="RECURSOS/firefox.png" target="_blank" rel="noopener"> FireFox</a></small></h2>
 
 <br>
 </details>
