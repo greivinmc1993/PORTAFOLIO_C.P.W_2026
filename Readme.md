@@ -215,7 +215,7 @@ Portafolio-Codificación de Páginas Web/
                 <tr align="center">
                     <td>Formas del gráfico SVG</td>
                     <td>Varias formas.</td>
-                    <td align="left">Porque lo solicita el documento.</td>
+                    <td align="left">Para Realizar lo más cercano a una casa con un sol.</td>
                 </tr>
             </tbody>
         </table>
