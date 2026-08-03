@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+
+<html lang="es">
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Lista y Tablas|React</title>
+        <meta name="description" content="Mi Sitio Personal creado para el módulo de Codificación de Páginas Web">
+        <meta name="keywords" content="sitio personal, HTML, git, github, web">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="author" content="Greivin Montero Contretras">
+        <link rel="icon" href="recursos/favicon.png" type="image/png">
+    </head>
+
+
+    <body>
+        <!-- Encabezado del sitio web -->
+        <header id="header">
+            <h1>React</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="contacto.html">Contacto</a></li>
+                    <li><a href="galeria.html">Galeria</a></li>
+                    <li><a href="listas.html">Lista</a></li>
+                </ul>
+            </nav>
+        </header>
+        <!-- Contenido principal del sitio web -->
+        <main id="main">
+            <article>
+                <h2>Listas y Tablas Sobre React</h2>
+                <p>En esta sección se presentan los conceptos fundamentales de React, así como las herramientas esenciales en su ecosistema, incluyendo una comparativa de librerías complementarias.</p>
+                <section>
+                    <h3>5 Conceptos Fundamentales de React</h3>
+                        <ul>
+                            <li><strong>Componentes:</strong> Son los bloques de construcción independientes y reutilizables que conforman la interfaz de usuario.</li>
+                            <li><strong>JSX:</strong> Es una extensión de sintaxis que permite escribir una estructura muy similar a HTML directamente dentro del código JavaScript.</li>
+                            <li><strong>Estado (State):</strong> Es un objeto interno que almacena datos dinámicos; cuando el estado cambia, React actualiza la pantalla automáticamente.</li>
+                            <li><strong>Props (Propiedades):</strong> Son argumentos de solo lectura que se envían de un componente padre a un componente hijo para pasar información.</li>
+                            <li><strong>Hooks:</strong> Son funciones especiales (como <code>useState</code> o <code>useEffect</code>) que permiten usar el estado y el ciclo de vida de React sin necesidad de crear clases.</li>
+                        </ul>
+                </section>
+
+                <section id="herramientas-ecosistema">
+                    <h3>Top 5: Librerías esenciales en el ecosistema de React</h3>
+                        <!-- Lo elegi para hacer una cuenta regresiva del peor a la mejor herramienta -->
+                        <ol reversed>
+                            <li><strong>React Hook Form (Manejo de Formularios):</strong> Simplifica la validación y recolección de datos ingresados por el usuario, evitando que toda la página se recargue innecesariamente al escribir.</li>
+                            <li><strong>Jest & Testing Library (Pruebas Automáticas):</strong> Permiten simular clics y eventos del usuario para comprobar que el código funciona a la perfección antes de publicarlo.</li>
+                            <li><strong>Styled Components (Estilos Avanzados):</strong> Una herramienta que permite escribir código CSS puro directamente dentro de los archivos de JavaScript, evitando que los estilos choquen entre sí.</li>
+                            <li><strong>React Router (Navegación):</strong> Esencial para crear aplicaciones de una sola página (SPA). Permite cambiar de vistas o URLs sin que el navegador tenga que parpadear o recargarse.</li>
+                            <li><strong>Redux o Zustand (Estado Global):</strong> Resuelven el problema de tener que pasar información a través de muchísimos componentes, manteniendo los datos sincronizados en toda la aplicación.</li>
+                        </ol>
+                </section>
+
+                <section id="hooks-react">
+                    <h3>Hooks Principales de React</h3>
+                        <dl>
+                            <dt><strong>useState:</strong></dt>
+                            <dd>Permite añadir estado local a los componentes funcionales, desencadenando una <strong>actualización automática</strong> de la interfaz cuando los datos cambian.</dd>
+                            
+                            <dt><strong>useEffect:</strong></dt>
+                            <dd>Sirve para manejar operaciones externas (como llamadas a un servidor o temporizadores), aislándolas del ciclo de <em>renderizado principal</em>.</dd>
+                            
+                            <dt><strong>useContext:</strong></dt>
+                            <dd>Facilita el acceso a datos globales en cualquier nivel de la aplicación, evitando la tediosa tarea de pasar las propiedades manualmente de padre a hijo.</dd>
+                        </dl>
+                </section>
+
+                <section id="ecosistema-herramientas">
+                    <h3>Clasificación de Herramientas en el Ecosistema React</h3>
+                        <ul>
+                            <li><strong>Librerías de Enrutamiento y Navegación</strong>
+                                <!-- La sublista va adentro del <li> padre, antes de cerrarlo -->
+                                <ul>
+                                    <li>React Router (Navegación estándar)</li>
+                                    <li>Wouter (Alternativa minimalista)</li>
+                                    <li>TanStack Router (Navegación con validación de tipos)</li>
+                                </ul>
+                            </li>
+                            
+                            <li><strong>Soluciones para Estilos y Diseño</strong>
+                                <!-- La sublista va adentro del <li> padre, antes de cerrarlo -->
+                                <ul>
+                                    <li>Tailwind CSS (Clases de utilidad)</li>
+                                    <li>Styled Components (CSS dentro de JavaScript)</li>
+                                    <li>CSS Modules (Archivos de estilos encapsulados)</li>
+                                </ul>
+                            </li>
+                            
+                            <li><strong>Herramientas para la Gestión del Estado</strong>
+                                <!-- La sublista va adentro del <li> padre, antes de cerrarlo -->
+                                <ul>
+                                    <li>Context API (Nativo de React)</li>
+                                    <li>Zustand (Gestor de estado global ligero)</li>
+                                    <li>Redux Toolkit (Arquitectura robusta para estados complejos)</li>
+                                </ul>
+                            </li>
+                        </ul>
+                </section>
+
+                <section id="comparativa-herramientas">
+                    <h3>Tabla de Datos Compleja</h3>
+    
+                    <!-- C1: Tabla de cuatro columnas y cinco filas de datos -->
+                    <table border="2">
+                        
+                        <!-- C2: El título de la tabla como primer elemento hijo -->
+                        <caption>Comparativa de librerías complementarias en el ecosistema de React</caption>
+                        
+                        <!-- C3: Zona de encabezado -->
+                        <thead>
+                            <tr>
+                                <!-- C4: Celdas <th> con el atributo scope="col" -->
+                                <th scope="col">Herramienta</th>
+                                <th scope="col">Categoría</th>
+                                <th scope="col">Propósito Principal</th>
+                                <th scope="col">Curva de Aprendizaje</th>
+                            </tr>
+                        </thead>
+                        
+                        <!-- C3: Zona de contenido -->
+                        <tbody>
+                            <tr>
+                                <!-- C5: Primera celda de la fila es <th> con scope="row" -->
+                                <th scope="row">React Router</th>
+                                <!-- C6: Atributo rowspan que agrupa dos filas -->
+                                <td rowspan="2">Navegación Web</td>
+                                <td>Gestión de rutas complejas para aplicaciones de una sola página</td>
+                                <td>Media</td>
+                            </tr>
+                            <tr>
+                                <!-- C5: Primera celda <th> con scope="row" -->
+                                <th scope="row">Wouter</th>
+                                <!-- La celda de Categoría se omite aquí porque el rowspan anterior ya la cubre (ajuste de fila) -->
+                                <td>Enrutamiento minimalista basado exclusivamente en Hooks</td>
+                                <td>Baja</td>
+                            </tr>
+                            <tr>
+                                <!-- C5: Primera celda <th> con scope="row" -->
+                                <th scope="row">Redux Toolkit</th>
+                                <!-- C6: Atributo rowspan que agrupa tres filas -->
+                                <td rowspan="3">Gestión de Estado</td>
+                                <td>Arquitectura robusta para manejar estados globales muy complejos</td>
+                                <td>Alta</td>
+                            </tr>
+                            <tr>
+                                <!-- C5: Primera celda <th> con scope="row" -->
+                                <th scope="row">Zustand</th>
+                                <!-- Omitida la celda de Categoría por el rowspan -->
+                                <td>Estado global ligero, rápido y sin código repetitivo (boilerplate)</td>
+                                <td>Baja</td>
+                            </tr>
+                            <tr>
+                                <!-- C5: Primera celda <th> con scope="row" -->
+                                <th scope="row">Context API</th>
+                                <!-- Omitida la celda de Categoría por el rowspan -->
+                                <td>Inyección de dependencias nativa integrada directamente en React</td>
+                                <td>Media</td>
+                            </tr>
+                        </tbody>
+                        
+                        <!-- C3: Zona de pie -->
+                        <tfoot>
+                            <tr>
+                                <!-- C7: Celda con colspan que abarca las 4 columnas con una nota -->
+                                <td colspan="4">Nota: Esta tabla representa un resumen de las herramientas más utilizadas en la industria del desarrollo front-end.</td>
+                            </tr>
+                        </tfoot>
+                        
+                    </table>
+                </section>
+
+            </article>
+
+            <br><br>
+            
+            <a href="#header">Volver al inicio</a><br><br>
+
+        </main>
+
+        <!-- Pie de página del sitio web -->
+        <footer id="footer">
+            <address>
+                <b>San josé, Costa Rica. Teléfono:</b> +506 8888-8888 <br>
+                <a href="mailto:greivin.montero@correo.com">greivin.montero@correo.com</a> | 
+            </address>
+
+            <p><small>2026 - Todos los derechos reservados &copy; Greivin Montero Contretras</small></p>
+        </footer>
+
+    </body>
+
+</html>

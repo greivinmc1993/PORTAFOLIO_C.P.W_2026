@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+
+<html lang="es">
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Contacto y Formularios | React</title>
+        <meta name="description" content="Mi Sitio Personal creado para el módulo de Codificación de Páginas Web">
+        <meta name="keywords" content="sitio personal, HTML, git, github, web">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="author" content="Greivin Montero Contretras">
+        <link rel="icon" href="recursos/favicon.png" type="image/png">
+    </head>
+
+
+    <body>
+        <!-- Encabezado del sitio web -->
+        <header id="header">
+            <h1>React</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="contacto.html">Contacto</a></li>
+                    <li><a href="galeria.html">Galeria</a></li>
+                    <li><a href="listas.html">Lista</a></li>
+                </ul>
+            </nav>
+        </header>
+        <!-- Contenido principal del sitio web -->
+        <main id="main">
+            <article>
+                <h2>Inscripción al Bootcamp de React</h2>
+                <p>Complete el siguiente formulario para registrarse en la próxima cohorte del curso de desarrollo front-end.</p>
+
+                <!-- Requerimiento A2: Formulario con destino de datos (marcador) y método POST -->
+                <form action="#" method="POST">
+                    
+                    <!-- Requerimiento A3: Primer grupo - Datos personales -->
+                    <fieldset>
+                        <legend>Datos Personales</legend>
+
+                            <br>
+                        
+                        <!-- B1, B2: Etiqueta vinculada al id y atributo name -->
+                        <!-- C1, C2: Obligatorio (1) y límites de caracteres -->
+                            <label for="nombre_estudiante">Nombre completo:</label><br>
+                            <input type="text" id="nombre_estudiante" name="estudiante_nombre" required minlength="5" maxlength="80">
+
+                            <br><br>
+
+                        <!-- C1: Obligatorio (2) | Tipo de dato que valida el correo -->
+                            <label for="correo_estudiante">Correo electrónico:</label><br>
+                            <input type="email" id="correo_estudiante" name="estudiante_correo" required>
+
+                            <br><br>
+
+                        <!-- C1: Obligatorio (3) | Tipo tel para teclado numérico en móvil -->
+                        <!-- C3: Expresión regular de 8 dígitos exactos y mensaje de ayuda en el title -->
+                            <label for="telefono_estudiante">Teléfono móvil:</label><br>
+                            <input type="tel" id="telefono_estudiante" name="estudiante_telefono" required pattern="^[0-9]{8}$" title="Debe ingresar exactamente 8 dígitos, sin espacios ni guiones.">
+
+                            <br><br>
+
+                        <!-- Tipo de dato que oculta lo escrito -->
+                            <label for="clave_plataforma">Crear contraseña para la plataforma educativa:</label><br>
+                            <input type="password" id="clave_plataforma" name="estudiante_clave">
+
+                            <br>
+
+                    </fieldset>
+
+                    <br>
+
+                    <!-- Requerimiento A3: Segundo grupo - Detalles de la solicitud -->
+                    <fieldset>
+                        <legend>Detalles de la Solicitud</legend>
+
+                            <br>
+                        
+                        <!-- C1: Obligatorio (4) | Tipo de dato que despliega calendario -->
+                            <label for="fecha_inicio">Fecha preferida para iniciar:</label><br>
+                            <input type="date" id="fecha_inicio" name="curso_fecha" required>
+
+                            <br><br>
+
+                        <!-- Tipo numérico con flechas -->
+                        <!-- C4: Valor mínimo, máximo y salto (step) -->
+                            <label for="meses_experiencia">Meses de experiencia previa programando en JavaScript:</label><br>
+                            <input type="number" id="meses_experiencia" name="estudiante_experiencia" min="0" max="60" step="1">
+
+                        <!-- Requerimiento B3: Opción única con mismo name pero distintos id -->
+                            <p>Seleccione la modalidad de estudio:</p>
+                            <input type="radio" id="modalidad_sincrona" name="curso_modalidad" value="sincrono" checked>
+                            <label for="modalidad_sincrona">Clases en vivo (Síncrono)</label><br>
+                            
+                            <input type="radio" id="modalidad_asincrona" name="curso_modalidad" value="asincrono">
+                            <label for="modalidad_asincrona">A tu propio ritmo (Asíncrono)</label>
+
+                        <!-- Casillas de verificación para marcar varias opciones -->
+                            <p>Herramientas del ecosistema que te interesa profundizar:</p>
+                            <input type="checkbox" id="interes_redux" name="temas_extra" value="redux">
+                            <label for="interes_redux">Redux Toolkit (Manejo de estados)</label><br>
+                            
+                            <input type="checkbox" id="interes_nextjs" name="temas_extra" value="nextjs">
+                            <label for="interes_nextjs">Next.js (Renderizado del lado del servidor)</label>
+
+                            <br><br>
+
+                        <!-- Campo de texto largo -->
+                        <!-- C5: Límite de caracteres en el textarea -->
+                            <label for="expectativas_curso">¿Cuáles son tus expectativas para este curso? (Opcional):</label><br>
+                            <textarea id="expectativas_curso" name="estudiante_expectativas" rows="4" cols="50" maxlength="400" placeholder="Escribe aquí hasta 400 caracteres..."></textarea>
+                    </fieldset>
+
+                    <br>
+
+                    <!-- Requerimiento A3: Tercer grupo - Confirmación -->
+                    <fieldset>
+                        <legend>Confirmación</legend>                      
+                        <!-- C1: Obligatorio (5) | Casilla de confirmación requerida -->
+                            <input type="checkbox" id="acepto_reglamento" name="terminos_aceptados" required>
+                            <label for="acepto_reglamento">Certifico que la información es correcta y acepto el reglamento del curso.</label>
+                    </fieldset>
+
+                    <br>
+
+                    <!-- Botones de acción del formulario -->
+                        <button type="submit">Enviar Inscripción</button>
+                        <button type="reset">Restablecer Formulario</button>
+
+                </form>
+            </article>
+
+            <br><br>
+            
+            <a href="#header">Volver al inicio</a><br><br>
+
+        </main>
+
+        <!-- Pie de página del sitio web -->
+        <footer id="footer">
+            <address>
+                <b>San josé, Costa Rica. Teléfono:</b> +506 8888-8888 <br>
+                <a href="mailto:greivin.montero@correo.com">greivin.montero@correo.com</a> | 
+            </address>
+
+            <p><small>2026 - Todos los derechos reservados &copy; Greivin Montero Contretras</small></p>
+        </footer>
+
+    </body>
+
+</html>

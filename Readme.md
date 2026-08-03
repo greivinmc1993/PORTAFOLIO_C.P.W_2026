@@ -82,67 +82,152 @@ Portafolio-Codificación de Páginas Web/
 <summary>▼<b>Unidad 2 · Etiquetas y atributos HTML (sesiones 2 a 8)</b></summary>
 <br>
         <table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid &gt;dce6f0">
-    <thead>
-        <tr>
-            <th align="center">Sesión</th>
-            <th align="center">Tema</th>
-            <th align="center">Qué aprendí</th>
-            <th align="center">Trabajo</th>
-            <th align="center">Captura</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr align="center">
-            <td>S02</td>
-            <td>Git colaborativo, la web y XML</td>
-            <td align="left">Aprendí a gestionar el control de versiones de forma profesional con Git y GitHub, aplicando un flujo colaborativo mediante la terminal integrada de VS Code y la interfaz remota. Puse en práctica este aprendizaje creando repositorios, trabajando con ramas paralelas, registrando cambios con commits atómicos convencionales, subiendo mi código y abriendo Pull Requests para la revisión de pares y fusión en la rama main. Resolví estas situaciones aplicando la «regla de oro» del curso: inspeccionar constantemente el estado con git status, realizar un git pull antes de trabajar, solucionar visualmente los marcadores de conflicto en el editor dejando la versión final deseada.</td>
-            <td><a href="UNIDAD_1_git/CLASE_2_20-7-2026/3.Guia_Trabajo_Colaborativo_GitHub2026.pdf" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="RECURSOS/clase-2-20-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
-        </tr>
-        <tr align="center">
-            <td>S03</td>
-            <td>Estructura del documento HTML5</td>
-            <td align="left">En esta sesión aprendí a configurar Visual Studio Code con extensiones clave como Prettier y Live Server para mantener un código limpio y en orden. Comprendí que HTML5 es gestionado por WHATWG como un estándar vivo en continua evolución, y dominé la estructura base del documento compuesta por <mark>!DOCTYPE html</mark>, <mark>html lang="es"</mark>, la cabecera <mark>&lt;head&gt;</mark> para metadatos no visibles (como la codificación UTF-8 y el viewport) y el <mark>&lt;body&gt;</mark> para el contenido visible. Finalmente, reconocí la importancia de los atributos globales, los comentarios explicativos y la validación con la W3C para garantizar que el sitio funcione correctamente en cualquier navegador.</td>
-            <td><a href="UNIDAD_2_html/CLASE 3 21-7-2026/Presentacion_S04_Texto_Enlaces_Anclas.pptx" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="RECURSOS/clase-4-22-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
-        </tr>
-        <tr align="center">
-            <td>S04</td>
-            <td>Texto, enlaces y anclas</td>
-            <td align="left">En esta sesión aprendí a estructurar texto y navegación en HTML usando jerarquía lógica de encabezados (<mark>&lt;h1&gt;</mark>-<mark>&lt;h6&gt;</mark> con un único <mark>&lt;h1&gt;</mark> sin saltarse niveles) y etiquetas semánticas para dar significado al contenido, como <mark>&lt;strong&gt;</mark>, <mark>&lt;em&gt;</mark>, <mark>&lt;blockquote&gt;</mark> y <mark>&lt;q&gt;</mark>. Dominé la creación de hipervínculos con <mark>&lt;a&gt;</mark> usando <mark>target="_blank"</mark> y <mark>rel="noopener"</mark> para enlaces externos con seguridad, así como la gestión de rutas relativas desde el archivo actual (prohibiendo rutas de disco local). Finalmente, aprendí a crear anclas internas vinculando un atributo id único con <mark>href="&gt;id"</mark> para facilitar la navegación dentro de la misma página o hacia secciones específicas de otras.</td>
-            <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/articulos.html" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="RECURSOS/24-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
-        </tr>
-        <tr align="center">
-            <td>S05</td>
-            <td>Listas y tablas</td>
-            <td align="left">En esta sesión aprendí a estructurar datos utilizando listas y tablas en HTML. Dominé el uso de listas desordenadas (<mark>&lt;ul&gt;</mark>), ordenadas (<mark>&lt;ol&gt;</mark>) y descriptivas (<mark>&lt;dl&gt;</mark>), así como el anidamiento correcto de sublistas estrictamente dentro de las etiquetas <mark>&lt;li&gt;</mark> del elemento padre. Asimismo, aprendí que las tablas deben usarse únicamente para información tabular y no para maquetación, organizándolas semánticamente con <mark>&lt;caption&gt;</mark>, <mark>&lt;thead&gt;</mark>, <mark>&lt;tbody&gt;</mark> y <mark>&lt;tfoot&gt;</mark>. Por último, comprendí cómo combinar celdas usando <mark>colspan</mark> y <mark>rowspan</mark> manteniendo la contabilidad exacta de columnas, e incorporando atributos como <mark>scope="col"</mark> y <mark>scope="row"</mark> en los encabezados <mark>&lt;th&gt;</mark> para garantizar la accesibilidad.</td>
-            <td><a href="RECURSOS/Readme.md" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="RECURSOS/clase-27-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
-        </tr>
-        <tr align="center">
-            <td>S06</td>
-            <td>Formularios y semántica</td>
-            <td align="left">Aprendí a estructurar páginas web profesionales y accesibles usando HTML5 semántico (<mark>&lt;header&gt; &lt;main&gt;, &lt;form&gt;</mark>) para darle significado al contenido. Comprendí el rol fundamental de los formularios con validaciones nativas sin JavaScript, conectando las etiquetas <mark>&lt;label&gt; e &lt;input&gt;</mark> mediante atributos clave como for, id y name, asegurando así un código ordenado, funcional y optimizado para navegadores y lectores de pantalla.</td>
-            <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/registro.html" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="RECURSOS/CLASE-6-28-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
-        </tr>
-        <tr align="center">
-            <td>S07</td>
-            <td>Multimedia</td>
-            <td align="left">Aprendí a optimizar contenido multimedia (imágenes, audio y video) priorizando la compatibilidad y el rendimiento . Apliqué etiquetas como <mark>&lt;img&gt;</mark>, <mark>&lt;audio&gt;</mark> y <mark>&lt;video&gt;</mark> con atributos clave como <mark>`alt`, `controls`</mark> y `<mark>source</mark>`. Integré formatos modernos como WebP y MP4 para asegurar la accesibilidad y velocidad web.</td>
-            <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/galeria.html" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="RECURSOS/PRUEBA-29-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
-        </tr>
-        <tr align="center">
-            <td>S08</td>
-            <td>SVG y repaso</td>
-            <td align="left">Aprendí que los gráficos SVG permiten crear imágenes vectoriales escalables sin perder calidad, utilizando figuras, coordenadas, atributos y estilos en HTML, facilitando diseños ligeros, editables y adaptables.</td>
-            <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/insignia.html" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="RECURSOS/CLASE-8-30-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
-        </tr>
-    </tbody>
-</table>
+            <thead>
+                <tr>
+                    <th align="center">Sesión</th>
+                    <th align="center">Tema</th>
+                    <th align="center">Qué aprendí</th>
+                    <th align="center">Trabajo</th>
+                    <th align="center">Captura</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr align="center">
+                    <td>S02</td>
+                    <td>Git colaborativo, la web y XML</td>
+                    <td align="left">Aprendí a gestionar el control de versiones de forma profesional con Git y GitHub, aplicando un flujo colaborativo mediante la terminal integrada de VS Code y la interfaz remota. Puse en práctica este aprendizaje creando repositorios, trabajando con ramas paralelas, registrando cambios con commits atómicos convencionales, subiendo mi código y abriendo Pull Requests para la revisión de pares y fusión en la rama main. Resolví estas situaciones aplicando la «regla de oro» del curso: inspeccionar constantemente el estado con git status, realizar un git pull antes de trabajar, solucionar visualmente los marcadores de conflicto en el editor dejando la versión final deseada.</td>
+                    <td><a href="UNIDAD_1_git/CLASE_2_20-7-2026/3.Guia_Trabajo_Colaborativo_GitHub2026.pdf" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="RECURSOS/clase-2-20-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+                </tr>
+                <tr align="center">
+                    <td>S03</td>
+                    <td>Estructura del documento HTML5</td>
+                    <td align="left">En esta sesión aprendí a configurar Visual Studio Code con extensiones clave como Prettier y Live Server para mantener un código limpio y en orden. Comprendí que HTML5 es gestionado por WHATWG como un estándar vivo en continua evolución, y dominé la estructura base del documento compuesta por <mark>!DOCTYPE html</mark>, <mark>html lang="es"</mark>, la cabecera <mark>&lt;head&gt;</mark> para metadatos no visibles (como la codificación UTF-8 y el viewport) y el <mark>&lt;body&gt;</mark> para el contenido visible. Finalmente, reconocí la importancia de los atributos globales, los comentarios explicativos y la validación con la W3C para garantizar que el sitio funcione correctamente en cualquier navegador.</td>
+                    <td><a href="UNIDAD_2_html/CLASE 3 21-7-2026/Presentacion_S04_Texto_Enlaces_Anclas.pptx" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="RECURSOS/clase-4-22-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+                </tr>
+                <tr align="center">
+                    <td>S04</td>
+                    <td>Texto, enlaces y anclas</td>
+                    <td align="left">En esta sesión aprendí a estructurar texto y navegación en HTML usando jerarquía lógica de encabezados (<mark>&lt;h1&gt;</mark>-<mark>&lt;h6&gt;</mark> con un único <mark>&lt;h1&gt;</mark> sin saltarse niveles) y etiquetas semánticas para dar significado al contenido, como <mark>&lt;strong&gt;</mark>, <mark>&lt;em&gt;</mark>, <mark>&lt;blockquote&gt;</mark> y <mark>&lt;q&gt;</mark>. Dominé la creación de hipervínculos con <mark>&lt;a&gt;</mark> usando <mark>target="_blank"</mark> y <mark>rel="noopener"</mark> para enlaces externos con seguridad, así como la gestión de rutas relativas desde el archivo actual (prohibiendo rutas de disco local). Finalmente, aprendí a crear anclas internas vinculando un atributo id único con <mark>href="&gt;id"</mark> para facilitar la navegación dentro de la misma página o hacia secciones específicas de otras.</td>
+                    <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/articulos.html" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="RECURSOS/24-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+                </tr>
+                <tr align="center">
+                    <td>S05</td>
+                    <td>Listas y tablas</td>
+                    <td align="left">En esta sesión aprendí a estructurar datos utilizando listas y tablas en HTML. Dominé el uso de listas desordenadas (<mark>&lt;ul&gt;</mark>), ordenadas (<mark>&lt;ol&gt;</mark>) y descriptivas (<mark>&lt;dl&gt;</mark>), así como el anidamiento correcto de sublistas estrictamente dentro de las etiquetas <mark>&lt;li&gt;</mark> del elemento padre. Asimismo, aprendí que las tablas deben usarse únicamente para información tabular y no para maquetación, organizándolas semánticamente con <mark>&lt;caption&gt;</mark>, <mark>&lt;thead&gt;</mark>, <mark>&lt;tbody&gt;</mark> y <mark>&lt;tfoot&gt;</mark>. Por último, comprendí cómo combinar celdas usando <mark>colspan</mark> y <mark>rowspan</mark> manteniendo la contabilidad exacta de columnas, e incorporando atributos como <mark>scope="col"</mark> y <mark>scope="row"</mark> en los encabezados <mark>&lt;th&gt;</mark> para garantizar la accesibilidad.</td>
+                    <td><a href="RECURSOS/Readme.md" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="RECURSOS/clase-27-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+                </tr>
+                <tr align="center">
+                    <td>S06</td>
+                    <td>Formularios y semántica</td>
+                    <td align="left">Aprendí a estructurar páginas web profesionales y accesibles usando HTML5 semántico (<mark>&lt;header&gt; &lt;main&gt;, &lt;form&gt;</mark>) para darle significado al contenido. Comprendí el rol fundamental de los formularios con validaciones nativas sin JavaScript, conectando las etiquetas <mark>&lt;label&gt; e &lt;input&gt;</mark> mediante atributos clave como for, id y name, asegurando así un código ordenado, funcional y optimizado para navegadores y lectores de pantalla.</td>
+                    <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/registro.html" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="RECURSOS/CLASE-6-28-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+                </tr>
+                <tr align="center">
+                    <td>S07</td>
+                    <td>Multimedia</td>
+                    <td align="left">Aprendí a optimizar contenido multimedia (imágenes, audio y video) priorizando la compatibilidad y el rendimiento . Apliqué etiquetas como <mark>&lt;img&gt;</mark>, <mark>&lt;audio&gt;</mark> y <mark>&lt;video&gt;</mark> con atributos clave como <mark>`alt`, `controls`</mark> y `<mark>source</mark>`. Integré formatos modernos como WebP y MP4 para asegurar la accesibilidad y velocidad web.</td>
+                    <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/galeria.html" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="RECURSOS/PRUEBA-29-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+                </tr>
+                <tr align="center">
+                    <td>S08</td>
+                    <td>SVG y repaso</td>
+                    <td align="left">Aprendí que los gráficos SVG permiten crear imágenes vectoriales escalables sin perder calidad, utilizando figuras, coordenadas, atributos y estilos en HTML, facilitando diseños ligeros, editables y adaptables.</td>
+                    <td><a href="UNIDAD_2_html/CLASE 4 22-7-2026/SITIO-DEMO/insignia.html" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="RECURSOS/CLASE-8-30-7-2026.png" target="_blank" rel="noopener">Ver</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <h2> 😎 El sitio personal</h2>
+        <br>
+        <p>Proyecto propio construido de forma autónoma. <strong>Tema del sitio:</strong> (escribir aquí el tema elegido)</p>
+        <table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid &gt;dce6f0">
+            <thead>
+                <tr>
+                    <th align="center">Página</th>
+                    <th align="center">Qué contiene</th>
+                    <th align="center">Sesiones aplicadas</th>
+                    <th align="center">Ver</th>
+                    <th align="center">Validación</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr align="center">
+                    <td>index.html</td>
+                    <td>Estructura semántica, metadatos, texto jerarquizado, citas, enlaces y anclas</td>
+                    <td align="left">S03 · S04 · S06</td>
+                    <td><a href="/UNIDAD_2_html/sitio-personal/index.html" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="/RECURSOS/Hora-1.png" target="_blank" rel="noopener">Ver</a></td>
+                </tr>
+                <tr align="center">
+                    <td>listas.html</td>
+                    <td>Las tres listas, lista anidada y tabla con celdas combinadas</td>
+                    <td align="left">S05</td>
+                    <td><a href="/UNIDAD_2_html/sitio-personal/listas.html" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="/RECURSOS/Hora-3.png" target="_blank" rel="noopener">Ver</a></td>
+                </tr>
+                <tr align="center">
+                    <td>contacto.html</td>
+                    <td>Formulario con ocho campos y validación de HTML</td>
+                    <td align="left">S06</td>
+                    <td><a href="/UNIDAD_2_html/sitio-personal/contacto.html" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="/RECURSOS/Hora-4.png" target="_blank" rel="noopener">Ver</a></td>
+                </tr>
+                <tr align="center">
+                    <td>galeria.html</td>
+                    <td>Imágenes, audio, video con subtítulos y gráficas SVG</td>
+                    <td align="left">S07 · S08</td>
+                    <td><a href="/UNIDAD_2_html/sitio-personal/galeria.html" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="/RECURSOS/Hora-6.png" target="_blank" rel="noopener">Ver</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <h2> 🤔 Decisiones que tomé</h2>
+        <table border="3" style="background-color: #f3f6fa; border-radius: 5px; border: 3px solid &gt;dce6f0">
+            <thead>
+                <tr>
+                    <th align="center">Decisión</th>
+                    <th align="center">Qué elegí</th>
+                    <th align="center">Por qué</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr align="center">
+                    <td>Tema del sitio</td>
+                    <td>React Developer.</td>
+                    <td align="left">Es la Mejor Galeria de JS.</td>
+                </tr>
+                <tr align="center">
+                    <td>Atributo de la lista ordenada</td>
+                    <td>Inverted.</td>
+                    <td align="left">Para Marcar De Peor a Mejor.</td>
+                </tr>
+                <tr align="center">
+                    <td>Formatos de imagen usados</td>
+                    <td>Webp, png, etc.</td>
+                    <td align="left">Son los Más Óptimos.</td>
+                </tr>
+                <tr align="center">
+                    <td>Formas del gráfico SVG</td>
+                    <td>Varias formas.</td>
+                    <td align="left">Porque lo solicita el documento.</td>
+                </tr>
+            </tbody>
+        </table>
+        <h2> 🥹 Cómo se ve</h2>
+        <p align="center">
+            <img src="recursos/sp-vista-index.png" width="600" alt="Portada del sitio personal">
+        </p>
+        <div align="center" border="3">
+            <h2>Portada del sitio personal al cerrar la Unidad 2.</h2>
+        </div>
+        <h2>Comprobado en dos navegadores: <small><a href="/RECURSOS/chrome.png" target="_blank" rel="noopener">Chrome |</a><a href="/RECURSOS/firefox.png" target="_blank" rel="noopener"> FireFox</a></small></h2>
+
 <br>
 </details>
 

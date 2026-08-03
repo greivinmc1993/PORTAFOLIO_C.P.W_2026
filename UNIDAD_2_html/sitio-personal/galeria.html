@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+
+<html lang="es">
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Galería de Imágenes | React</title>
+        <meta name="description" content="Mi Sitio Personal creado para el módulo de Codificación de Páginas Web">
+        <meta name="keywords" content="sitio personal, HTML, git, github, web">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="author" content="Greivin Montero Contretras">
+        <link rel="icon" href="recursos/favicon.png" type="image/png">
+    </head>
+
+
+    <body>
+        <!-- Encabezado del sitio web -->
+        <header id="header">
+            <h1>React</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="contacto.html">Contacto</a></li>
+                    <li><a href="galeria.html">Galeria</a></li>
+                    <li><a href="listas.html">Lista</a></li>
+                </ul>
+            </nav>
+        </header>
+        <!-- Contenido principal del sitio web -->
+        <main id="main">
+
+            <section id="galeria-curso">
+                <h2>Galería del Bootcamp de React</h2>
+
+                <!-- Requerimiento A2: Imagen simple con sus 4 atributos (ruta, texto alternativo, ancho y alto real en píxeles) -->
+                    <h3>Logotipo</h3>
+                    <img src="/UNIDAD_2_html/sitio-personal/recursos/react-logo.png" alt="Logotipo oficial de React" width="400" height="220">
+
+                <!-- Requerimiento A3: Imagen agrupada con su pie explicativo (figure y figcaption) -->
+                    <h3>Ambiente de Aprendizaje</h3>
+                    <figure>
+                        <img src="/UNIDAD_2_html/sitio-personal/recursos/estudiantes.jpg" alt="Estudiante escribiendo código de componentes en un monitor" width="600" height="300">
+                        <figcaption>Un estudiante desarrollando su primer proyecto interactivo en clase.</figcaption>
+                    </figure>
+
+                <!-- Requerimiento A4: Imagen que ofrece varios formatos al navegador (picture, source y fallback img) -->
+                    <h3>Certificación Final</h3>
+                    <picture>
+                        <!-- Formato moderno alternativo 1 -->
+                        <source srcset="/UNIDAD_2_html/sitio-personal/recursos/certificado.webp" width="760" height="540" type="image/webp">
+
+                        <!-- Formato moderno alternativo 2 -->
+                        <source srcset="/UNIDAD_2_html/sitio-personal/recursos/certificado.avif" type="image/avif">
+                                                
+                        <!-- Imagen de respaldo obligatoria para navegadores antiguos -->
+                        <img src="/UNIDAD_2_html/sitio-personal/recursos/certificado.webp" alt="Certificado oficial de finalización del curso de React" width="760" height="540">
+                    </picture>
+            </section>
+
+            <!-- Requerimiento B1: Sección con su respectivo encabezado -->
+            <section id="audio-curso">
+                <h3>Opening de Caballeros Del Zodiaco</h3>
+                
+                <!-- Requerimiento B2: Etiqueta de audio con el atributo 'controls' -->
+                <audio controls>
+                    
+                    <!-- Requerimiento B3: Dos fuentes distintas con su tipo declarado -->
+                    <!-- Formato MP3 (el más compatible y estándar) -->
+                    <source src="/UNIDAD_2_html/sitio-personal/recursos/audio/Opening.mp3" type="audio/mp3">
+                    
+                    <!-- Formato OGG (alternativa de código abierto de alta calidad) -->
+                    <source src="/UNIDAD_2_html/sitio-personal/recursos/audio/Opening.ogg" type="audio/ogg">
+                    
+                    <!-- Requerimiento B4: Texto de respaldo con enlace de descarga -->
+                    <p>
+                        Tu navegador no soporta la reproducción de audio nativa. 
+                        Sin embargo, puedes <a href="/UNIDAD_2_html/sitio-personal/recursos/audio/Opening.mp3" download>descargar el archivo de audio aquí</a> para escucharlo en tu dispositivo.
+                    </p>
+                    
+                </audio>
+            </section>
+
+            <!-- Requerimiento C1: Sección con su respectivo encabezado -->
+            <section id="video-curso">
+                <h3>Opening de Ranma 1/2</h3>
+                
+                <!-- Requerimiento C2: Atributos controls, width, poster (portada) y preload (precarga) -->
+                <video controls width="686" poster="/UNIDAD_2_html/sitio-personal/recursos/poster.jpg" preload="metadata">
+                    
+                    <!-- Requerimiento C3: Dos fuentes con formatos distintos -->
+                    <!-- Formato MP4 (Altísima compatibilidad en todos los navegadores) -->
+                    <source src="/UNIDAD_2_html/sitio-personal/recursos/video/opening.mp4" type="video/mp4">
+                    
+                    <!-- Formato WebM (Optimizado para la web, excelente compresión) -->
+                    <source src="/UNIDAD_2_html/sitio-personal/recursos/video/opening.webm" type="video/webm">
+                    
+                    <!-- Requerimiento C4: Pista de subtítulos con sus cinco atributos -->
+                    <track src="/UNIDAD_2_html/sitio-personal/recursos/vtt/letra.vtt" kind="subtitles" srclang="es" label="Español" default>
+                    
+                    <!-- Requerimiento C5: Texto de respaldo con enlace de descarga -->
+                    <p>
+                        Tu navegador no soporta la reproducción de video en HTML5. 
+                        Puedes <a href="/UNIDAD_2_html/sitio-personal/recursos/video/opening.webm" download>descargar el video de la clase aquí</a> para verlo sin conexión.
+                    </p>
+                    
+                </video>
+            </section>
+
+            <br>
+
+            <section>
+                <h2>Gráfico Vectorial: Casa bajo el sol</h2>
+
+                    <svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+                        
+                        <circle cx="320" cy="80" r="40" fill="gold" />
+                        
+                        <line x1="0" y1="350" x2="400" y2="350" stroke="forestgreen" stroke-width="8" />
+                        
+                        <rect x="120" y="200" width="160" height="150" fill="khaki" stroke="saddlebrown" stroke-width="4" />
+                        
+                        <polygon points="100,200 200,100 300,200" fill="firebrick" />
+                        
+                        <text x="200" y="380" font-family="Arial, sans-serif" font-size="16" fill="black" text-anchor="middle">
+                        Ilustración vectorial
+                        </text>
+
+                    </svg>
+
+                <p>
+                    El gráfico vectorial anterior representa una casa sencilla al aire libre. La composición utiliza un círculo amarillo 
+                    para ilustrar el sol, una línea verde gruesa que funciona como la base o el césped, un rectángulo para la 
+                    estructura principal de la vivienda y un polígono de tres vértices que simula un techo a dos aguas.
+                </p>
+
+            </section>
+
+            <section>
+                <h2>Gráfica 2: Popularidad de Lenguajes de Programación (Datos Reales)</h2>
+
+                    <svg width="500" height="400" viewBox="0 0 500 400" xmlns="http://www.w3.org/2000/svg">
+                        
+                        <text x="250" y="40" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333" text-anchor="middle">
+                        Uso de Lenguajes en 2023 (%)
+                        </text>
+
+                        <line x1="50" y1="300" x2="450" y2="300" stroke="black" stroke-width="3" />
+
+                        <rect x="80" y="105" width="50" height="195" fill="gold" />
+                        
+                        <rect x="170" y="156" width="50" height="144" fill="steelblue" />
+                        
+                        <rect x="260" y="201" width="50" height="99" fill="crimson" />
+                        
+                        <rect x="350" y="228" width="50" height="72" fill="mediumpurple" />
+
+                        <text x="105" y="325" font-family="Arial, sans-serif" font-size="14" fill="black" text-anchor="middle">JS</text>
+                        
+                        <text x="195" y="325" font-family="Arial, sans-serif" font-size="14" fill="black" text-anchor="middle">Python</text>
+                        
+                        <text x="285" y="325" font-family="Arial, sans-serif" font-size="14" fill="black" text-anchor="middle">Java</text>
+                        
+                        <text x="375" y="325" font-family="Arial, sans-serif" font-size="14" fill="black" text-anchor="middle">C++</text>
+
+                    </svg>
+
+                <p>
+                    Esta gráfica de barras representa estadísticas aproximadas del uso de los lenguajes de programación más populares. 
+                    Se construyó utilizando una etiqueta <code>&lt;line&gt;</code> para el eje base, cuatro etiquetas <code>&lt;rect&gt;</code> 
+                    con diferentes alturas para representar los datos, y etiquetas <code>&lt;text&gt;</code> bajo cada barra para su correcta identificación.
+                </p>
+            </section>
+
+
+            <br><br>
+            
+            <a href="#header">Volver al inicio</a><br><br>
+
+        </main>
+
+        <!-- Pie de página del sitio web -->
+        <footer id="footer">
+            <address>
+                <b>San josé, Costa Rica. Teléfono:</b> +506 8888-8888 <br>
+                <a href="mailto:greivin.montero@correo.com">greivin.montero@correo.com</a> | 
+            </address>
+
+            <p><small>2026 - Todos los derechos reservados &copy; Greivin Montero Contretras</small></p>
+        </footer>
+
+    </body>
+
+</html>
