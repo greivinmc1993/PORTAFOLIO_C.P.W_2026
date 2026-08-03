@@ -182,8 +182,8 @@ Portafolio-Codificación de Páginas Web/
                     <td>galeria.html</td>
                     <td>Imágenes, audio, video con subtítulos y gráficas SVG</td>
                     <td align="left">S07 · S08</td>
-                    <td><a href="" target="_blank" rel="noopener">Ver</a></td>
-                    <td><a href="" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="/UNIDAD_2_html/sitio-personal/galeria.html" target="_blank" rel="noopener">Ver</a></td>
+                    <td><a href="/RECURSOS/Hora-6.png" target="_blank" rel="noopener">Ver</a></td>
                 </tr>
             </tbody>
         </table>
@@ -199,18 +199,18 @@ Portafolio-Codificación de Páginas Web/
             <tbody>
                 <tr align="center">
                     <td>Tema del sitio</td>
-                    <td>....</td>
-                    <td align="left">....</td>
+                    <td>React Developer.</td>
+                    <td align="left">Es la Mejor Galeria de JS.</td>
                 </tr>
                 <tr align="center">
                     <td>Atributo de la lista ordenada</td>
-                    <td>....</td>
-                    <td align="left">....</td>
+                    <td>Inverted.</td>
+                    <td align="left">Para Marcar De Peor a Mejor.</td>
                 </tr>
                 <tr align="center">
                     <td>Formatos de imagen usados</td>
-                    <td>....</td>
-                    <td align="left">....</td>
+                    <td>Webp, png, etc.</td>
+                    <td align="left">Son los Más Óptimos</td>
                 </tr>
                 <tr align="center">
                     <td>Formas del gráfico SVG</td>
