@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"></path>
+
+            <circle cx="100" cy="100" r="100" fill="#10f9f9"></circle>
+
+            <circle cx="100" cy="100" r="72" fill="#f910f9" stroke="#1f4e79" stroke-width="4"></circle>
+            
+            <polygon points="100,45 112,80 149,80 119,102 130,137 100,115 70,137 81,102 51,80 88,80" fill="#1f4e00" stroke="#1f4e79" stroke-width="2"></polygon>
+
+            <!--TEXT se usa para crear texto en SVG-->
+
+            <text x="100" y="170" text-anchor="middle" font-size="14" fill="#1f4e79">
+                HOLA A TODOS
+            </text>
+            </svg>
