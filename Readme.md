@@ -251,8 +251,8 @@ Portafolio-Codificación de Páginas Web/
             <td>S11</td>
             <td>Introducción a CSS</td>
             <td align="left">Dato</td>
-            <td><a href="unidad-03/" target="_blank" rel="noopener">Ver</a></td>
-            <td><a href="unidad-03/" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="UNIDAD_3_css/CLASE 11-6-8-2026/sitio-personal/index.html" target="_blank" rel="noopener">Ver</a></td>
+            <td><a href="RECURSOS/clase-11-6-8-2026.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr align="center">
             <td>S12</td>
